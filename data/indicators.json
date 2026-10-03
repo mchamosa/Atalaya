@@ -1,0 +1,737 @@
+{
+ "source": "FRED (Fed de St. Louis), BCE y calendario",
+ "indicators": [
+  {
+   "id": "nfp",
+   "region": "EE. UU.",
+   "name": "Nóminas no agrícolas (NFP)",
+   "unit": "K",
+   "dec": 0,
+   "cal": "^Non-Farm Employment Change",
+   "cur": "USD",
+   "src": "fred",
+   "error": true
+  },
+  {
+   "id": "unrate",
+   "region": "EE. UU.",
+   "name": "Tasa de paro",
+   "unit": "%",
+   "dec": 1,
+   "cal": "^Unemployment Rate",
+   "cur": "USD",
+   "src": "fred",
+   "error": true
+  },
+  {
+   "id": "ahe",
+   "region": "EE. UU.",
+   "name": "Salario medio por hora (mensual)",
+   "unit": "%",
+   "dec": 1,
+   "cal": "^Average Hourly Earnings m/m",
+   "cur": "USD",
+   "src": "fred",
+   "error": true
+  },
+  {
+   "id": "claims",
+   "region": "EE. UU.",
+   "name": "Peticiones semanales de paro",
+   "unit": "K",
+   "dec": 0,
+   "cal": "^Unemployment Claims",
+   "cur": "USD",
+   "src": "fred",
+   "error": true
+  },
+  {
+   "id": "cpi",
+   "region": "EE. UU.",
+   "name": "IPC (interanual)",
+   "unit": "%",
+   "dec": 1,
+   "cal": "^CPI y/y",
+   "cur": "USD",
+   "src": "fred",
+   "error": true
+  },
+  {
+   "id": "core_cpi",
+   "region": "EE. UU.",
+   "name": "IPC subyacente (interanual)",
+   "unit": "%",
+   "dec": 1,
+   "cal": "^Core CPI",
+   "cur": "USD",
+   "src": "fred",
+   "error": true
+  },
+  {
+   "id": "core_pce",
+   "region": "EE. UU.",
+   "name": "PCE subyacente (mensual)",
+   "unit": "%",
+   "dec": 1,
+   "cal": "^Core PCE Price Index m/m",
+   "cur": "USD",
+   "src": "fred",
+   "error": true
+  },
+  {
+   "id": "gdp",
+   "region": "EE. UU.",
+   "name": "PIB (trimestral anualizado)",
+   "unit": "%",
+   "dec": 1,
+   "cal": "GDP q/q",
+   "cur": "USD",
+   "src": "fred",
+   "error": true
+  },
+  {
+   "id": "ism_m",
+   "region": "EE. UU.",
+   "name": "PMI manufacturero ISM",
+   "unit": "",
+   "dec": 1,
+   "cal": "^ISM Manufacturing PMI",
+   "cur": "USD",
+   "src": "cal"
+  },
+  {
+   "id": "ism_s",
+   "region": "EE. UU.",
+   "name": "PMI de servicios ISM",
+   "unit": "",
+   "dec": 1,
+   "cal": "^ISM Services PMI",
+   "cur": "USD",
+   "src": "cal"
+  },
+  {
+   "id": "umich",
+   "region": "EE. UU.",
+   "name": "Confianza del consumidor (Michigan)",
+   "unit": "",
+   "dec": 1,
+   "cal": "UoM Consumer Sentiment",
+   "cur": "USD",
+   "src": "fred",
+   "error": true
+  },
+  {
+   "id": "fed",
+   "region": "EE. UU.",
+   "name": "Tipos de la Fed (techo)",
+   "unit": "%",
+   "dec": 2,
+   "cal": "^Federal Funds Rate",
+   "cur": "USD",
+   "src": "fred",
+   "error": true
+  },
+  {
+   "id": "ez_hicp",
+   "region": "Eurozona",
+   "name": "IPC armonizado (interanual)",
+   "unit": "%",
+   "dec": 1,
+   "cal": "^CPI Flash Estimate y/y",
+   "cur": "EUR",
+   "src": "ecb",
+   "freq": "M",
+   "last": {
+    "period": "2025-12-01",
+    "value": 1.9
+   },
+   "prev": 2.1,
+   "history": [
+    [
+     "2024-01-01",
+     2.8
+    ],
+    [
+     "2024-02-01",
+     2.6
+    ],
+    [
+     "2024-03-01",
+     2.4
+    ],
+    [
+     "2024-04-01",
+     2.4
+    ],
+    [
+     "2024-05-01",
+     2.6
+    ],
+    [
+     "2024-06-01",
+     2.5
+    ],
+    [
+     "2024-07-01",
+     2.6
+    ],
+    [
+     "2024-08-01",
+     2.2
+    ],
+    [
+     "2024-09-01",
+     1.7
+    ],
+    [
+     "2024-10-01",
+     2.0
+    ],
+    [
+     "2024-11-01",
+     2.2
+    ],
+    [
+     "2024-12-01",
+     2.4
+    ],
+    [
+     "2025-01-01",
+     2.5
+    ],
+    [
+     "2025-02-01",
+     2.3
+    ],
+    [
+     "2025-03-01",
+     2.2
+    ],
+    [
+     "2025-04-01",
+     2.2
+    ],
+    [
+     "2025-05-01",
+     1.9
+    ],
+    [
+     "2025-06-01",
+     2.0
+    ],
+    [
+     "2025-07-01",
+     2.0
+    ],
+    [
+     "2025-08-01",
+     2.0
+    ],
+    [
+     "2025-09-01",
+     2.2
+    ],
+    [
+     "2025-10-01",
+     2.1
+    ],
+    [
+     "2025-11-01",
+     2.1
+    ],
+    [
+     "2025-12-01",
+     1.9
+    ]
+   ]
+  },
+  {
+   "id": "ez_core",
+   "region": "Eurozona",
+   "name": "IPC subyacente (interanual)",
+   "unit": "%",
+   "dec": 1,
+   "cal": "^Core CPI Flash Estimate y/y",
+   "cur": "EUR",
+   "src": "ecb",
+   "freq": "M",
+   "last": {
+    "period": "2025-12-01",
+    "value": 2.3
+   },
+   "prev": 2.4,
+   "history": [
+    [
+     "2024-01-01",
+     3.3
+    ],
+    [
+     "2024-02-01",
+     3.1
+    ],
+    [
+     "2024-03-01",
+     2.9
+    ],
+    [
+     "2024-04-01",
+     2.7
+    ],
+    [
+     "2024-05-01",
+     2.9
+    ],
+    [
+     "2024-06-01",
+     2.9
+    ],
+    [
+     "2024-07-01",
+     2.9
+    ],
+    [
+     "2024-08-01",
+     2.8
+    ],
+    [
+     "2024-09-01",
+     2.7
+    ],
+    [
+     "2024-10-01",
+     2.7
+    ],
+    [
+     "2024-11-01",
+     2.7
+    ],
+    [
+     "2024-12-01",
+     2.7
+    ],
+    [
+     "2025-01-01",
+     2.7
+    ],
+    [
+     "2025-02-01",
+     2.6
+    ],
+    [
+     "2025-03-01",
+     2.4
+    ],
+    [
+     "2025-04-01",
+     2.7
+    ],
+    [
+     "2025-05-01",
+     2.3
+    ],
+    [
+     "2025-06-01",
+     2.3
+    ],
+    [
+     "2025-07-01",
+     2.3
+    ],
+    [
+     "2025-08-01",
+     2.3
+    ],
+    [
+     "2025-09-01",
+     2.4
+    ],
+    [
+     "2025-10-01",
+     2.4
+    ],
+    [
+     "2025-11-01",
+     2.4
+    ],
+    [
+     "2025-12-01",
+     2.3
+    ]
+   ]
+  },
+  {
+   "id": "ez_unemp",
+   "region": "Eurozona",
+   "name": "Tasa de paro",
+   "unit": "%",
+   "dec": 1,
+   "cal": "^Unemployment Rate",
+   "cur": "EUR",
+   "src": "ecb",
+   "freq": "M",
+   "last": {
+    "period": "2026-08-01",
+    "value": 6.5
+   },
+   "prev": 6.5,
+   "history": [
+    [
+     "2024-09-01",
+     6.3
+    ],
+    [
+     "2024-10-01",
+     6.3
+    ],
+    [
+     "2024-11-01",
+     6.2
+    ],
+    [
+     "2024-12-01",
+     6.3
+    ],
+    [
+     "2025-01-01",
+     6.3
+    ],
+    [
+     "2025-02-01",
+     6.3
+    ],
+    [
+     "2025-03-01",
+     6.4
+    ],
+    [
+     "2025-04-01",
+     6.3
+    ],
+    [
+     "2025-05-01",
+     6.4
+    ],
+    [
+     "2025-06-01",
+     6.3
+    ],
+    [
+     "2025-07-01",
+     6.3
+    ],
+    [
+     "2025-08-01",
+     6.3
+    ],
+    [
+     "2025-09-01",
+     6.4
+    ],
+    [
+     "2025-10-01",
+     6.4
+    ],
+    [
+     "2025-11-01",
+     6.4
+    ],
+    [
+     "2025-12-01",
+     6.4
+    ],
+    [
+     "2026-01-01",
+     6.4
+    ],
+    [
+     "2026-02-01",
+     6.5
+    ],
+    [
+     "2026-03-01",
+     6.5
+    ],
+    [
+     "2026-04-01",
+     6.4
+    ],
+    [
+     "2026-05-01",
+     6.4
+    ],
+    [
+     "2026-06-01",
+     6.5
+    ],
+    [
+     "2026-07-01",
+     6.5
+    ],
+    [
+     "2026-08-01",
+     6.5
+    ]
+   ]
+  },
+  {
+   "id": "ez_gdp",
+   "region": "Eurozona",
+   "name": "PIB (trimestral)",
+   "unit": "%",
+   "dec": 1,
+   "cal": "GDP q/q",
+   "cur": "EUR",
+   "src": "cal"
+  },
+  {
+   "id": "ez_pmi",
+   "region": "Eurozona",
+   "name": "PMI compuesto",
+   "unit": "",
+   "dec": 1,
+   "cal": "^(Flash |Final )?Composite PMI|^Composite PMI",
+   "cur": "EUR",
+   "src": "cal"
+  },
+  {
+   "id": "ecb_dfr",
+   "region": "Eurozona",
+   "name": "Tipo de depósito del BCE",
+   "unit": "%",
+   "dec": 2,
+   "cal": "^(Main Refinancing Rate|Deposit Facility Rate)",
+   "cur": "EUR",
+   "src": "ecb",
+   "freq": "M",
+   "last": {
+    "period": "2026-10-01",
+    "value": 2.5
+   },
+   "prev": 2.5,
+   "history": [
+    [
+     "2024-11-01",
+     3.25
+    ],
+    [
+     "2024-12-01",
+     3.0
+    ],
+    [
+     "2025-01-01",
+     3.0
+    ],
+    [
+     "2025-02-01",
+     2.75
+    ],
+    [
+     "2025-03-01",
+     2.5
+    ],
+    [
+     "2025-04-01",
+     2.25
+    ],
+    [
+     "2025-05-01",
+     2.25
+    ],
+    [
+     "2025-06-01",
+     2.0
+    ],
+    [
+     "2025-07-01",
+     2.0
+    ],
+    [
+     "2025-08-01",
+     2.0
+    ],
+    [
+     "2025-09-01",
+     2.0
+    ],
+    [
+     "2025-10-01",
+     2.0
+    ],
+    [
+     "2025-11-01",
+     2.0
+    ],
+    [
+     "2025-12-01",
+     2.0
+    ],
+    [
+     "2026-01-01",
+     2.0
+    ],
+    [
+     "2026-02-01",
+     2.0
+    ],
+    [
+     "2026-03-01",
+     2.0
+    ],
+    [
+     "2026-04-01",
+     2.0
+    ],
+    [
+     "2026-05-01",
+     2.0
+    ],
+    [
+     "2026-06-01",
+     2.25
+    ],
+    [
+     "2026-07-01",
+     2.25
+    ],
+    [
+     "2026-08-01",
+     2.25
+    ],
+    [
+     "2026-09-01",
+     2.5
+    ],
+    [
+     "2026-10-01",
+     2.5
+    ]
+   ]
+  },
+  {
+   "id": "es_hicp",
+   "region": "España",
+   "name": "IPC armonizado (interanual)",
+   "unit": "%",
+   "dec": 1,
+   "cal": "^Spanish.*CPI",
+   "cur": "EUR",
+   "src": "ecb",
+   "freq": "M",
+   "last": {
+    "period": "2025-12-01",
+    "value": 3.0
+   },
+   "prev": 3.2,
+   "history": [
+    [
+     "2024-01-01",
+     3.5
+    ],
+    [
+     "2024-02-01",
+     2.9
+    ],
+    [
+     "2024-03-01",
+     3.3
+    ],
+    [
+     "2024-04-01",
+     3.4
+    ],
+    [
+     "2024-05-01",
+     3.8
+    ],
+    [
+     "2024-06-01",
+     3.6
+    ],
+    [
+     "2024-07-01",
+     2.9
+    ],
+    [
+     "2024-08-01",
+     2.4
+    ],
+    [
+     "2024-09-01",
+     1.7
+    ],
+    [
+     "2024-10-01",
+     1.8
+    ],
+    [
+     "2024-11-01",
+     2.4
+    ],
+    [
+     "2024-12-01",
+     2.8
+    ],
+    [
+     "2025-01-01",
+     2.9
+    ],
+    [
+     "2025-02-01",
+     2.9
+    ],
+    [
+     "2025-03-01",
+     2.2
+    ],
+    [
+     "2025-04-01",
+     2.2
+    ],
+    [
+     "2025-05-01",
+     2.0
+    ],
+    [
+     "2025-06-01",
+     2.3
+    ],
+    [
+     "2025-07-01",
+     2.7
+    ],
+    [
+     "2025-08-01",
+     2.7
+    ],
+    [
+     "2025-09-01",
+     3.0
+    ],
+    [
+     "2025-10-01",
+     3.2
+    ],
+    [
+     "2025-11-01",
+     3.2
+    ],
+    [
+     "2025-12-01",
+     3.0
+    ]
+   ]
+  },
+  {
+   "id": "es_unemp",
+   "region": "España",
+   "name": "Variación del paro registrado",
+   "unit": "K",
+   "dec": 1,
+   "cal": "^Spanish Unemployment Change",
+   "cur": "EUR",
+   "src": "cal"
+  }
+ ],
+ "updated": "2026-10-03T12:11:03+00:00",
+ "sample": false
+}

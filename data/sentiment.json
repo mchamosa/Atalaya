@@ -1,0 +1,203 @@
+{
+ "source": "CNN, alternative.me, Yahoo Finance",
+ "fear_greed": {
+  "stocks": {
+   "value": 31,
+   "label": "Miedo",
+   "prev_week": 37,
+   "prev_month": 46
+  },
+  "crypto": {
+   "value": 67,
+   "label": "Codicia",
+   "prev_week": 74,
+   "prev_month": 65
+  }
+ },
+ "assets": [
+  {
+   "symbol": "GC=F",
+   "name": "Oro",
+   "group": "Materias primas",
+   "price": 4162.3,
+   "chg1d": -0.95,
+   "chg5d": -3.68,
+   "chg1m": -8.32,
+   "rsi": 34.1,
+   "above_sma50": false,
+   "above_sma200": false,
+   "bias": -95
+  },
+  {
+   "symbol": "SI=F",
+   "name": "Plata",
+   "group": "Materias primas",
+   "price": 59.98,
+   "chg1d": -1.23,
+   "chg5d": -6.64,
+   "chg1m": -10.45,
+   "rsi": 36.9,
+   "above_sma50": false,
+   "above_sma200": false,
+   "bias": -91
+  },
+  {
+   "symbol": "CL=F",
+   "name": "Petróleo WTI",
+   "group": "Materias primas",
+   "price": 91.11,
+   "chg1d": -1.9,
+   "chg5d": -1.41,
+   "chg1m": -0.21,
+   "rsi": 47.4,
+   "above_sma50": true,
+   "above_sma200": true,
+   "bias": 34
+  },
+  {
+   "symbol": "EURUSD=X",
+   "name": "EUR/USD",
+   "group": "Divisas",
+   "price": 1.1257,
+   "chg1d": -0.62,
+   "chg5d": -1.03,
+   "chg1m": -3.19,
+   "rsi": 17.0,
+   "above_sma50": false,
+   "above_sma200": false,
+   "bias": -82
+  },
+  {
+   "symbol": "GBPUSD=X",
+   "name": "GBP/USD",
+   "group": "Divisas",
+   "price": 1.324,
+   "chg1d": -0.18,
+   "chg5d": 0.23,
+   "chg1m": -2.15,
+   "rsi": 33.1,
+   "above_sma50": false,
+   "above_sma200": false,
+   "bias": -69
+  },
+  {
+   "symbol": "USDJPY=X",
+   "name": "USD/JPY",
+   "group": "Divisas",
+   "price": 157.83,
+   "chg1d": -0.06,
+   "chg5d": 0.23,
+   "chg1m": 1.05,
+   "rsi": 53.2,
+   "above_sma50": false,
+   "above_sma200": false,
+   "bias": -38
+  },
+  {
+   "symbol": "DX-Y.NYB",
+   "name": "Índice dólar",
+   "group": "Divisas",
+   "price": 101.93,
+   "chg1d": -0.17,
+   "chg5d": 0.95,
+   "chg1m": 2.96,
+   "rsi": 71.7,
+   "above_sma50": true,
+   "above_sma200": true,
+   "bias": 81
+  },
+  {
+   "symbol": "^GSPC",
+   "name": "S&P 500",
+   "group": "Índices",
+   "price": 7722.72,
+   "chg1d": 0.73,
+   "chg5d": -0.27,
+   "chg1m": -0.32,
+   "rsi": 54.8,
+   "above_sma50": true,
+   "above_sma200": true,
+   "bias": 49
+  },
+  {
+   "symbol": "^NDX",
+   "name": "Nasdaq 100",
+   "group": "Índices",
+   "price": 30807.93,
+   "chg1d": 1.0,
+   "chg5d": 0.65,
+   "chg1m": 4.5,
+   "rsi": 65.3,
+   "above_sma50": true,
+   "above_sma200": true,
+   "bias": 76
+  },
+  {
+   "symbol": "^GDAXI",
+   "name": "DAX",
+   "group": "Índices",
+   "price": 25231.2,
+   "chg1d": 1.17,
+   "chg5d": -0.7,
+   "chg1m": -3.13,
+   "rsi": 42.9,
+   "above_sma50": false,
+   "above_sma200": true,
+   "bias": -14
+  },
+  {
+   "symbol": "^IBEX",
+   "name": "IBEX 35",
+   "group": "Índices",
+   "price": 19085.3,
+   "chg1d": 0.42,
+   "chg5d": -3.12,
+   "chg1m": -4.81,
+   "rsi": 34.7,
+   "above_sma50": false,
+   "above_sma200": true,
+   "bias": -39
+  },
+  {
+   "symbol": "^TNX",
+   "name": "Bono EE. UU. 10a",
+   "group": "Tipos",
+   "price": 5.277,
+   "chg1d": 0.76,
+   "chg5d": 1.79,
+   "chg1m": 10.81,
+   "rsi": 74.6,
+   "above_sma50": true,
+   "above_sma200": true,
+   "bias": 94
+  },
+  {
+   "symbol": "^VIX",
+   "name": "VIX",
+   "group": "Volatilidad",
+   "price": 15.31,
+   "chg1d": -6.59,
+   "chg5d": 2.96,
+   "chg1m": 5.37,
+   "rsi": 47.6,
+   "above_sma50": false,
+   "above_sma200": false,
+   "bias": -22
+  },
+  {
+   "symbol": "BTC-USD",
+   "name": "Bitcoin",
+   "group": "Cripto",
+   "price": 84671.59,
+   "chg1d": 0.21,
+   "chg5d": 1.4,
+   "chg1m": 10.19,
+   "rsi": 63.5,
+   "above_sma50": true,
+   "above_sma200": true,
+   "bias": 84
+  }
+ ],
+ "updated": "2026-10-03T12:11:03+00:00",
+ "sample": false
+}
