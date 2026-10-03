@@ -24,7 +24,9 @@ from pathlib import Path
 
 import requests
 
-ROOT = Path(__file__).resolve().parent.parent
+_HERE = Path(__file__).resolve().parent
+# Funciona tanto si el script está en la raíz del repositorio como dentro de scripts/
+ROOT = _HERE if (_HERE / "index.html").exists() else _HERE.parent
 DATA = ROOT / "data"
 DATA.mkdir(exist_ok=True)
 
@@ -120,10 +122,20 @@ def price_histories(tickers: list[str], period: str = "1y") -> dict:
     return out
 
 
+def _jsonable(o):
+    """Convierte tipos de numpy/pandas (int64, float64, bool_, Timestamp) a tipos de Python."""
+    if hasattr(o, "item"):
+        return o.item()
+    if hasattr(o, "isoformat"):
+        return o.isoformat()
+    raise TypeError(f"{type(o).__name__} no se puede guardar en JSON")
+
+
 def save(name: str, payload: dict) -> None:
     payload["updated"] = NOW
     payload["sample"] = False
-    (DATA / name).write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+    (DATA / name).write_text(json.dumps(payload, ensure_ascii=False, indent=1, default=_jsonable),
+                             encoding="utf-8")
     print(f"  ok  {name}")
 
 
@@ -859,7 +871,7 @@ def ath_scan(sym: str, meta: dict, d, pre=None) -> dict | None:
     elif dist >= -3:
         status = "cerca"
     else:
-        return {"_far": True, "region": region, "dist": dist}
+        return {"_far": True, "region": region, "dist": float(dist)}
 
     def prev_high(upto: int):
         h = hi.iloc[:upto]
@@ -1116,7 +1128,7 @@ def update_ath(refresh: bool = False) -> None:
         b = breadth.setdefault(meta["region"], {"total": 0, "near5": 0})
         b["total"] += 1
         if r.get("_far"):
-            b["near5"] += r["dist"] >= -5
+            b["near5"] += int(r["dist"] >= -5)
             continue
         b["near5"] += 1
         rows.append(r)
