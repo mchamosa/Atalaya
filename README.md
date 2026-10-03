@@ -17,9 +17,13 @@ Panel estático para GitHub Pages con:
 
 Autor: Marcos Chamosa
 
+## Página Cripto (crypto.html)
+
+Accesible desde la pestaña *Cripto* de la cabecera. La sección principal son las **rupturas de máximos**, con dos modos: máximo histórico (entre las 1.000 mayores de CoinGecko) y máximo de 1 año (todos los pares contra USDT de Binance con liquidez). Muestra en tarjetas las que rompen hoy y en tabla las recientes y las cercanas, con máximo anterior, base, volumen relativo, RSI, gráfico y señales; se puede filtrar por volumen mínimo y ordenar. Además incluye panorama (capitalización, dominancia, Miedo y Codicia, stablecoins, funding de bitcoin), mapa del mercado por capitalización, tabla de las 100 primeras con RSI y sesgo técnico, rupturas de máximos históricos, derivados de Hyperliquid, sectores, titulares cripto y la agenda macro de EE. UU. La actualiza `update_crypto.py` con su propio workflow (`crypto.yml`) cada 30 minutos, todos los días. Fuentes sin clave: CoinGecko, alternative.me, DefiLlama, Hyperliquid y Binance; opcionalmente puedes añadir el secret `COINGECKO_API_KEY` (plan Demo gratuito) para tener más margen.
+
 ## Cómo funciona
 
-GitHub Pages solo sirve ficheros estáticos, así que los datos los descarga una GitHub Action (`.github/workflows/update-data.yml`) que ejecuta `scripts/update_data.py` cada 30 minutos en días laborables y guarda el resultado en `data/*.json`. La página lee esos JSON y se refresca sola cada 5 minutos. No hace falta ninguna clave de API.
+GitHub Pages solo sirve ficheros estáticos, así que los datos los descarga una GitHub Action (`.github/workflows/update-data.yml`) que ejecuta `update_data.py` cada 30 minutos en días laborables y guarda el resultado en `data/*.json`. La página lee esos JSON y se refresca sola cada 5 minutos. No hace falta ninguna clave de API.
 
 ## Puesta en marcha
 
@@ -59,8 +63,8 @@ El escáner guarda las cotizaciones del último año de EE. UU. en la caché de 
 pip install -r requirements.txt
 export MASSIVE_API_KEY=tu_clave   # opcional
 export STOOQ_API_KEY=tu_clave     # opcional
-python scripts/update_data.py          # todo menos máximos
-python scripts/update_data.py --ath    # escáner de máximos
+python update_data.py          # todo menos máximos
+python update_data.py --ath    # escáner de máximos
 python -m http.server 8000   # y abre http://localhost:8000
 ```
 
@@ -68,9 +72,9 @@ Abrir `index.html` con doble clic no funciona: el navegador bloquea la lectura d
 
 ## Personalizar
 
-- Activos del mapa de calor: lista `ASSETS` en `scripts/update_data.py` (tickers de Yahoo Finance).
+- Activos del mapa de calor: lista `ASSETS` en `update_data.py` (tickers de Yahoo Finance).
 - Máximos históricos: lista `EUROPE` para Europa; en EE. UU. el universo es automático y los filtros mínimos están en `US_MIN_PRICE` y `US_MIN_DOLLAR_VOL`.
-- Acciones vigiladas: diccionario `STOCKS` en `scripts/update_data.py` (tickers de Yahoo; las españolas acaban en `.MC`). Los pesos de la puntuación están en `score_rows`.
+- Acciones vigiladas: diccionario `STOCKS` en `update_data.py` (tickers de Yahoo; las españolas acaban en `.MC`). Los pesos de la puntuación están en `score_rows`.
 - Indicadores clave: lista `INDICATORS` (código de serie de FRED o del BCE, transformación `level`, `diff`, `mom` o `yoy`, y la expresión `cal` que lo enlaza con el calendario).
 - Fuentes de noticias: lista `FEEDS`. Etiquetas por activo: `ASSET_TAGS`.
 - Frecuencia: las líneas `cron` del workflow (hora UTC). GitHub puede retrasar las ejecuciones programadas unos minutos.

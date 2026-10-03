@@ -1,0 +1,62 @@
+name: Escanear máximos históricos
+
+on:
+  schedule:
+    - cron: "45 14 * * 1-5"   # tras la apertura de Wall Street (UTC)
+    - cron: "30 21 * * 1-5"   # tras el cierre de Wall Street (UTC)
+    - cron: "0 4 * * 0"       # domingo: recalcula el historial completo
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: "Recalcular el historial completo"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ath-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Recuperar almacén de cotizaciones de EE. UU.
+        uses: actions/cache/restore@v4
+        with:
+          path: data_store
+          key: us-bars-${{ github.run_id }}
+          restore-keys: us-bars-
+      - name: Escanear
+        env:
+          MASSIVE_API_KEY: ${{ secrets.MASSIVE_API_KEY }}
+          STOOQ_API_KEY: ${{ secrets.STOOQ_API_KEY }}
+        run: |
+          if [ "${{ github.event.schedule }}" = "0 4 * * 0" ] || [ "${{ inputs.refresh }}" = "true" ]; then
+            python update_data.py --ath --refresh
+          else
+            python update_data.py --ath
+          fi
+      - name: Guardar almacén para la próxima pasada
+        if: always() && hashFiles('data_store/**') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: data_store
+          key: us-bars-${{ github.run_id }}
+      - name: Guardar cambios
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Máximos históricos $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase --autostash || true
+          git push
