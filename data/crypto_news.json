@@ -1,8 +1,19 @@
 {
- "updated": "2026-10-04T08:45:49+00:00",
+ "updated": "2026-10-04T11:48:00+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+   "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-04T09:39:51+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación"
+   ],
+   "score": 0
+  },
   {
    "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
    "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -680,16 +691,6 @@
    "tags": [
     "Bitcoin",
     "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
-   "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-01T21:07:45+00:00",
-   "tags": [
-    "XRP"
    ],
    "score": 0
   },
