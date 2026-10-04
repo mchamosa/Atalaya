@@ -1,8 +1,20 @@
 {
- "updated": "2026-10-04T18:37:13+00:00",
+ "updated": "2026-10-04T21:55:08+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-04T18:51:50+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación",
+    "DeFi"
+   ],
+   "score": 0
+  },
   {
    "title": "There's an election next month: State of Crypto",
    "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
@@ -177,18 +189,6 @@
    "source": "CoinDesk",
    "published": "2026-10-03T13:00:00+00:00",
    "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-03T12:20:00+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación",
-    "DeFi"
-   ],
    "score": 0
   },
   {
@@ -995,6 +995,20 @@
     "Hackeos"
    ],
    "score": -1
+  },
+  {
+   "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
+   "link": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
+   "source": "Decrypt",
+   "published": "2026-01-23T16:40:55+00:00",
+   "tags": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "XRP",
+    "Regulación"
+   ],
+   "score": 0
   }
  ]
 }
