@@ -947,6 +947,47 @@
    ]
   },
   {
+   "symbol": "XOM",
+   "market": "EE. UU.",
+   "name": "ExxonMobil Holdings Corporation",
+   "sector": "Energy",
+   "currency": "USD",
+   "price": 164.01,
+   "chg1m": -0.09,
+   "chg3m": 20.99,
+   "from_high": -3.14,
+   "rsi": 55.1,
+   "above_sma200": true,
+   "pe": 21.108107,
+   "fpe": 14.452817,
+   "peg": 1.3811,
+   "pb": 2.6000316,
+   "div": 2.51,
+   "roe": 0.12584,
+   "eps_growth": 1.128,
+   "rev_growth": 0.441,
+   "target": 173.40909,
+   "upside": 5.73,
+   "rec": 2.4,
+   "analysts": 22,
+   "earnings": "2026-10-30",
+   "news7d": 0,
+   "news_tone": 0,
+   "news": [],
+   "pe_ref": 14.3,
+   "sub": {
+    "valor": 19.7,
+    "analistas": 10.0,
+    "calidad": 11.3,
+    "momento": 12,
+    "noticias": 7.5
+   },
+   "score": 61,
+   "why": [
+    "Beneficio +113 %"
+   ]
+  },
+  {
    "symbol": "KO",
    "market": "EE. UU.",
    "name": "Coca-Cola Company (The)",
@@ -986,47 +1027,6 @@
    "why": [
     "Consenso de compra",
     "Beneficio +17 %"
-   ]
-  },
-  {
-   "symbol": "XOM",
-   "market": "EE. UU.",
-   "name": "ExxonMobil Holdings Corporation",
-   "sector": "Energy",
-   "currency": "USD",
-   "price": 164.01,
-   "chg1m": -0.09,
-   "chg3m": 20.99,
-   "from_high": -3.14,
-   "rsi": 55.1,
-   "above_sma200": true,
-   "pe": 21.108107,
-   "fpe": 14.50511,
-   "peg": 1.3811,
-   "pb": 2.6000316,
-   "div": 2.51,
-   "roe": 0.12584,
-   "eps_growth": 1.128,
-   "rev_growth": 0.441,
-   "target": 173.40909,
-   "upside": 5.73,
-   "rec": 2.4,
-   "analysts": 22,
-   "earnings": "2026-10-30",
-   "news7d": 0,
-   "news_tone": 0,
-   "news": [],
-   "pe_ref": 14.3,
-   "sub": {
-    "valor": 19.7,
-    "analistas": 10.0,
-    "calidad": 11.3,
-    "momento": 12,
-    "noticias": 7.5
-   },
-   "score": 60,
-   "why": [
-    "Beneficio +113 %"
    ]
   },
   {
@@ -2503,6 +2503,6 @@
    "why": []
   }
  ],
- "updated": "2026-10-03T20:19:48+00:00",
+ "updated": "2026-10-04T13:33:25+00:00",
  "sample": false
 }

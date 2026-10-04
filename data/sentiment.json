@@ -8,10 +8,10 @@
    "prev_month": 46
   },
   "crypto": {
-   "value": 67,
+   "value": 65,
    "label": "Codicia",
-   "prev_week": 74,
-   "prev_month": 65
+   "prev_week": 70,
+   "prev_month": 74
   }
  },
  "assets": [
@@ -32,14 +32,14 @@
    "symbol": "SI=F",
    "name": "Plata",
    "group": "Materias primas",
-   "price": 59.98,
-   "chg1d": -1.23,
-   "chg5d": -6.64,
-   "chg1m": -10.45,
-   "rsi": 36.9,
+   "price": 60.42,
+   "chg1d": -0.51,
+   "chg5d": -5.96,
+   "chg1m": -9.79,
+   "rsi": 38.1,
    "above_sma50": false,
    "above_sma200": false,
-   "bias": -91
+   "bias": -90
   },
   {
    "symbol": "CL=F",
@@ -188,16 +188,16 @@
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Cripto",
-   "price": 84890.0,
-   "chg1d": 0.46,
-   "chg5d": 1.66,
-   "chg1m": 10.48,
-   "rsi": 64.1,
+   "price": 85245.27,
+   "chg1d": 0.57,
+   "chg5d": 1.94,
+   "chg1m": 9.06,
+   "rsi": 65.2,
    "above_sma50": true,
    "above_sma200": true,
-   "bias": 86
+   "bias": 89
   }
  ],
- "updated": "2026-10-03T20:19:48+00:00",
+ "updated": "2026-10-04T13:33:25+00:00",
  "sample": false
 }
