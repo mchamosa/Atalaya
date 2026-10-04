@@ -1,13 +1,55 @@
 {
- "updated": "2026-10-04T11:48:00+00:00",
+ "updated": "2026-10-04T14:45:34+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
   {
+   "title": "Crypto poured years into new products. The next challenge is keeping users",
+   "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+   "source": "CoinDesk",
+   "published": "2026-10-04T14:00:00+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+   "link": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-04T13:48:48+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
+   "link": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+   "source": "Decrypt",
+   "published": "2026-10-04T13:01:03+00:00",
+   "tags": [
+    "Hackeos"
+   ],
+   "score": 0
+  },
+  {
+   "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+   "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+   "source": "CoinDesk",
+   "published": "2026-10-04T13:00:00+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+   "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-04T12:42:00+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
    "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
    "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
-   "published": "2026-10-04T09:39:51+00:00",
+   "published": "2026-10-04T09:40:00+00:00",
    "tags": [
     "Bitcoin",
     "Regulación"
@@ -18,7 +60,7 @@
    "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
    "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
-   "published": "2026-10-04T07:16:53+00:00",
+   "published": "2026-10-04T07:18:00+00:00",
    "tags": [],
    "score": 0
   },
@@ -124,17 +166,17 @@
    "title": "Community banks sue OCC over trust bank charters of crypto firms",
    "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
-   "published": "2026-10-03T09:25:01+00:00",
+   "published": "2026-10-03T09:28:00+00:00",
    "tags": [
     "Regulación"
    ],
    "score": 0
   },
   {
-   "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+   "title": "Trump expected to appoint Jay Clayton as new AI czar: Reports",
    "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
-   "published": "2026-10-03T07:06:08+00:00",
+   "published": "2026-10-03T07:09:00+00:00",
    "tags": [],
    "score": 0
   },
@@ -625,24 +667,6 @@
    "score": -1
   },
   {
-   "title": "SEC moves to clear custody hurdle for advisers offering crypto",
-   "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T01:07:08+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
-   "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-01T23:17:47+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold",
    "link": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
    "source": "Bitcoin Magazine",
@@ -874,25 +898,6 @@
    "score": 0
   },
   {
-   "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
-   "link": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
-   "source": "CoinDesk",
-   "published": "2026-10-01T11:30:38+00:00",
-   "tags": [
-    "Bitcoin",
-    "Hackeos"
-   ],
-   "score": -1
-  },
-  {
-   "title": "Synthetic tokenized stocks are bad for American investors",
-   "link": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
-   "source": "CoinDesk",
-   "published": "2026-10-01T11:00:00+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
    "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
    "source": "Decrypt",
@@ -990,16 +995,6 @@
     "ETF"
    ],
    "score": 1
-  },
-  {
-   "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
-   "link": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
-   "source": "Decrypt",
-   "published": "2026-09-30T16:36:10+00:00",
-   "tags": [
-    "Solana"
-   ],
-   "score": 0
   }
  ]
 }
