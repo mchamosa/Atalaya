@@ -381,7 +381,7 @@ def block_high_1y(markets: list[dict]) -> list[dict]:
         j = len(highs) - win - 1 + highs[-win - 1:-1].index(prior) if len(highs) > win else highs.index(prior)
         c = names.get(base, {})
         all_time = c.get("ath_change_percentage")
-        row = {"symbol": base, "name": c.get("name", base), "rank": c.get("market_cap_rank"), "status": status,
+        row = {"symbol": base, "id": c.get("id"), "name": c.get("name", base), "rank": c.get("market_cap_rank"), "status": status,
                "price": closes[-1], "high_1y": hi1y, "prev_high": prior, "prev_high_date": k[j][0].strftime("%Y-%m-%d"),
                "base_days": (k[-1][0] - k[j][0]).days, "dist": round(dist, 2),
                "over_prev": round((closes[-1] / prior - 1) * 100, 2),
@@ -478,6 +478,73 @@ def block_category_members(cats: list[dict], prev: dict | None, prev_when: str |
 
 
 # --------------------------------------------------------------------------
+# Exchanges donde cotizan las monedas que rompen máximos
+# --------------------------------------------------------------------------
+EXCH_MAX_AGE_H = 12          # cada moneda se consulta como mucho cada 12 h
+EXCH_MAX_COINS = 40          # tope de consultas por pasada (límite de CoinGecko)
+DEX_RX = re.compile(r"swap|uniswap|raydium|orca|meteora|aerodrome|velodrome|curve|balancer|jupiter|"
+                    r"pump|dex|camelot|trader joe|hyperliquid spot|\(v\d\)|v\d$|fluid|thena|cetus", re.I)
+
+
+def coin_exchanges(cid: str, sym: str = "") -> list[dict]:
+    j = cg(f"/coins/{cid}/tickers", order="volume_desc", depth="false", include_exchange_logo="false")
+    agg: dict[str, dict] = {}
+    for t in j.get("tickers", []):
+        if t.get("is_stale") or t.get("is_anomaly"):
+            continue
+        m = t.get("market") or {}
+        name = m.get("name") or ""
+        vol = float((t.get("converted_volume") or {}).get("usd") or 0)
+        if not name or vol <= 0:
+            continue
+        a = agg.setdefault(name, {"name": name, "volume": 0.0, "pair": "", "url": "", "best": 0.0,
+                                  "dex": bool(DEX_RX.search(name) or DEX_RX.search(m.get("identifier") or "")),
+                                  "trust": t.get("trust_score")})
+        a["volume"] += vol
+        if vol > a["best"]:
+            fix = lambda x: sym if (not x or x.upper().startswith("0X") or len(x) > 12) and sym else (x or "")
+            tgt = t.get("target", "")
+            tgt = "" if tgt.upper().startswith("0X") or len(tgt) > 12 else tgt
+            a.update(best=vol, pair=f"{fix(t.get('base', ''))}/{tgt}".strip("/"), url=t.get("trade_url") or "")
+    rows = sorted(agg.values(), key=lambda x: -x["volume"])[:15]
+    for r in rows:
+        r.pop("best", None)
+        r["volume"] = round(r["volume"])
+    return rows
+
+
+def block_exchanges(data: dict, prev: dict | None) -> dict:
+    prev = prev or {}
+    want, syms = [], {}
+    for r in (data.get("ath") or []) + (data.get("high_1y") or []):
+        if r.get("status") in ("hoy", "reciente") and r.get("id") and r["id"] not in want:
+            want.append(r["id"])
+            syms[r["id"]] = r.get("symbol", "")
+    out, calls = {}, 0
+    for cid in want:
+        p = prev.get(cid)
+        fresh = False
+        if p:
+            try:
+                fresh = (NOW_DT - datetime.fromisoformat(p["updated"])).total_seconds() < EXCH_MAX_AGE_H * 3600
+            except Exception:
+                pass
+        if fresh or calls >= EXCH_MAX_COINS:
+            if p:
+                out[cid] = p
+            continue
+        try:
+            out[cid] = {"updated": NOW, "list": coin_exchanges(cid, syms.get(cid, ""))}
+            calls += 1
+        except Exception as e:
+            print(f"  aviso exchanges {cid}: {e}")
+            if p:
+                out[cid] = p
+    print(f"  exchanges: {len(out)} monedas ({calls} consultadas ahora)")
+    return out
+
+
+# --------------------------------------------------------------------------
 FEEDS = [
     ("CoinDesk", "https://www.coindesk.com/arc/outboundfeeds/rss/"),
     ("Cointelegraph", "https://cointelegraph.com/rss"),
@@ -562,6 +629,7 @@ def main():
         run("ath", block_ath, markets)
         run("ath_breadth", block_ath_breadth, markets)
         run("high_1y", block_high_1y, markets)
+        run("exchanges", block_exchanges, out, out.get("exchanges"))
     run("derivs", block_derivs)
     cats = run("categories", block_categories)
     if cats:

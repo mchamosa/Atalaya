@@ -365,6 +365,17 @@ button.cat:hover,button.cat[aria-expanded="true"]{background:var(--panel-2)}
 .pop table th{position:static;padding:5px 6px}
 .share{height:6px;border-radius:3px;background:var(--gold);opacity:.8;min-width:2px}
 @media (max-width:640px){.pop{left:12px!important;right:12px;top:auto!important;bottom:12px;width:auto}}
+
+/* Exchanges */
+.exs{display:flex;gap:4px;flex-wrap:wrap;max-width:200px;align-items:center}
+.exc{font:600 11.5px var(--cond);padding:1px 7px;border-radius:4px;background:var(--panel-2);border:1px solid var(--line);white-space:nowrap}
+.exc.dex{border-style:dashed;color:var(--mute)}
+.exmore{font:600 11.5px var(--cond);color:var(--gold);background:none;border:1px solid color-mix(in srgb,var(--gold) 50%,transparent);border-radius:4px;padding:1px 7px;cursor:pointer}
+.hc .ex{grid-column:1/-1;font:500 12px var(--cond);color:var(--mute)}
+.hc .ex b{color:var(--ink);font-weight:600}
+.pop .exl td a{color:var(--gold);text-decoration:none;font:600 13px var(--cond)}
+.pop .exl td a:hover{text-decoration:underline}
+.tag2{font:600 10.5px var(--cond);padding:0 5px;border-radius:3px;border:1px solid var(--line);color:var(--mute);margin-left:4px}
 </style>
 </head>
 <body>
@@ -429,7 +440,7 @@ button.cat:hover,button.cat[aria-expanded="true"]{background:var(--panel-2)}
     <div class="tbl-wrap" style="max-height:760px">
       <table id="athTable">
         <thead><tr><th>Moneda</th><th>Estado</th><th class="num">Precio</th><th class="num" id="thMax">Máximo histórico</th><th class="num">Frente al máximo</th>
-        <th class="num">Máximo anterior</th><th class="num">Base</th><th>Volumen</th><th class="num">24 h</th><th class="num">30 días</th><th class="num">RSI</th><th>Último año</th><th>Señales</th></tr></thead>
+        <th class="num">Máximo anterior</th><th class="num">Base</th><th>Volumen</th><th class="num">24 h</th><th class="num">30 días</th><th class="num">RSI</th><th>Último año</th><th>Dónde cotiza</th><th>Señales</th></tr></thead>
         <tbody></tbody>
       </table>
     </div>
@@ -612,12 +623,32 @@ function baseTxt(d){ if(d==null)return'–'; if(d>=365){const y=d/365;return y<1
 function athSpark(vals,ath,W=130,H=32){ if(!vals||vals.length<2)return''; const P=3,mn=Math.min(...vals),mx=Math.max(ath||0,...vals),rg=(mx-mn)||1,x=i=>P+i*(W-2*P)/(vals.length-1),y=v=>H-P-(v-mn)/rg*(H-2*P);
   return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" aria-hidden="true">${ath?`<line x1="${P}" x2="${W-P}" y1="${y(Math.min(ath,mx))}" y2="${y(Math.min(ath,mx))}" stroke="var(--gold)" stroke-dasharray="3 3"/>`:''}<polyline points="${vals.map((v,i)=>x(i).toFixed(1)+','+y(v).toFixed(1)).join(' ')}" fill="none" stroke="var(--ink)" stroke-opacity=".75" stroke-width="1.4" vector-effect="non-scaling-stroke"/><circle cx="${x(vals.length-1)}" cy="${y(vals.at(-1))}" r="2.8" fill="var(--gold)"/></svg>`; }
 function sigHtml(list){ return (list||[]).map(t=>`<span class="${/También/.test(t)?'gold':/poco volumen|Extendida/.test(t)?'warn':/Volumen|Base|máximos/.test(t)?'good':''}">${esc(t)}</span>`).join(''); }
+const EXSHORT={'Binance':'Binance','Coinbase Exchange':'Coinbase','Kraken':'Kraken','OKX':'OKX','Bybit':'Bybit','Bitget':'Bitget','KuCoin':'KuCoin','Gate':'Gate','MEXC':'MEXC','Upbit':'Upbit','HTX':'HTX','Bitpanda Pro':'Bitpanda','Crypto.com Exchange':'Crypto.com','Bitstamp by Robinhood':'Bitstamp','Bitstamp':'Bitstamp','Hyperliquid Spot':'Hyperliquid'};
+const exName=n=>EXSHORT[n]||n.replace(/ Exchange$/,'').replace(/ \(.*\)$/,'');
+function exFor(x){ const id=x.id; return id&&state.c.exchanges&&state.c.exchanges[id]?state.c.exchanges[id].list||[]:null; }
+function exCell(x){ const l=exFor(x); if(l==null) return x.status==='cerca'?'<span class="flat" title="Se consulta cuando rompe">–</span>':'<span class="flat">Pendiente</span>'; if(!l.length) return '<span class="flat">Sin datos</span>';
+  const cex=l.filter(e=>!e.dex), top=(cex.length?cex:l).slice(0,3);
+  return `<div class="exs">${top.map(e=>`<span class="exc ${e.dex?'dex':''}">${esc(exName(e.name))}</span>`).join('')}<button type="button" class="exmore" data-ex="${esc(x.id)}" data-sym="${esc(x.symbol)}" aria-haspopup="dialog">${l.length>top.length?'+'+(l.length-top.length):'ver'}</button></div>`; }
+function openEx(btn){
+  const l=exFor({id:btn.dataset.ex})||[], pop=$('#catPop'), tot=l.reduce((s,e)=>s+e.volume,0)||1, mx=Math.max(...l.map(e=>e.volume),1);
+  pop.innerHTML=`<button class="x" type="button" aria-label="Cerrar">×</button><h3 id="catPopT">Dónde cotiza ${esc(btn.dataset.sym)}</h3>
+    <div class="sub2">Mercados con más volumen en 24 h según CoinGecko. Los marcados como DEX son exchanges descentralizados.</div>
+    <table class="exl"><thead><tr><th>Exchange</th><th>Par</th><th class="num">Volumen 24 h</th><th>Cuota</th><th></th></tr></thead><tbody>${l.map(e=>`<tr>
+      <td><b style="font:600 14px var(--cond)">${esc(exName(e.name))}</b>${e.dex?'<span class="tag2">DEX</span>':''}</td>
+      <td><span class="val prev">${esc(e.pair)}</span></td><td class="num"><span class="val">${usd(e.volume)}</span></td>
+      <td style="width:70px"><div class="share" style="width:${Math.max(3,e.volume/mx*100)}%" title="${num(e.volume/tot*100,0)} % del volumen"></div></td>
+      <td>${e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener">Abrir</a>`:''}</td></tr>`).join('')}</tbody></table>`;
+  pop.hidden=false; popFor=btn;
+  const r=btn.getBoundingClientRect(), pw=pop.offsetWidth, ph=pop.offsetHeight;
+  let left=Math.max(12,Math.min(window.innerWidth-pw-12,r.right-pw)), top=r.bottom+8; if(top+ph>window.innerHeight-12) top=Math.max(12,r.top-ph-8);
+  pop.style.left=left+'px'; pop.style.top=top+'px';
+}
 function athRows(){
   const y1=state.mode==='y1', src=(y1?state.c.high_1y:state.c.ath)||[];
   return src.map(x=>y1?{...x,ath:x.high_1y,prev_ath:x.prev_high,prev_ath_date:x.prev_high_date,from_ath:x.dist,ath_date:null,_from_all:x.from_ath}:x);
 }
 function renderAth(){
-  const tb=$('#athTable tbody'); if(!state.c||state.c.error){tb.innerHTML=`<tr><td colspan="13">${errBox('crypto.json')}</td></tr>`;$('#athKpis').innerHTML='';$('#athHot').innerHTML='';return;}
+  const tb=$('#athTable tbody'); if(!state.c||state.c.error){tb.innerHTML=`<tr><td colspan="14">${errBox('crypto.json')}</td></tr>`;$('#athKpis').innerHTML='';$('#athHot').innerHTML='';return;}
   const y1=state.mode==='y1', LBL=y1?ST1:ST, q=state.aq.toLowerCase();
   document.querySelectorAll('[data-mode]').forEach(x=>x.setAttribute('aria-selected',x.dataset.mode===state.mode));
   $('#thMax').textContent=y1?'Máximo de 1 año':'Máximo histórico';
@@ -629,7 +660,7 @@ function renderAth(){
   const hot=all.filter(x=>x.status==='hoy').sort((a,b)=>(b.vol_ratio||0)-(a.vol_ratio||0)).slice(0,8);
   $('#athHot').innerHTML=hot.map(x=>{ const over=x.prev_ath?(x.price/x.prev_ath-1)*100:null;
     return `<div class="hc" data-goto="${esc(x.symbol)}"><span class="s">${esc(x.symbol)}<small>${esc(x.name)}${x.rank?' #'+x.rank:''}</small></span><span class="o">${over!=null?pctS(over):pctS(x.from_ath)}</span>
-      <span class="m">${price(x.price)}${over!=null?', por encima del máximo anterior':''}<br>Base ${baseTxt(x.base_days)}${x.vol_ratio?`, volumen x${num(x.vol_ratio,1)}`:''}</span>${athSpark(x.spark,x.ath,220,30)}<div class="tg">${sigHtml(x.signals)}</div></div>`; }).join('');
+      <span class="m">${price(x.price)}${over!=null?', por encima del máximo anterior':''}<br>Base ${baseTxt(x.base_days)}${x.vol_ratio?`, volumen x${num(x.vol_ratio,1)}`:''}</span>${athSpark(x.spark,x.ath,220,30)}${(()=>{const l=exFor(x); if(!l||!l.length) return ''; const c=l.filter(e=>!e.dex).slice(0,4).map(e=>exName(e.name)); return c.length?`<span class="ex">En <b>${c.map(esc).join(', ')}</b>${l.length>c.length?` y ${l.length-c.length} más`:''}</span>`:'';})()}<div class="tg">${sigHtml(x.signals)}</div></div>`; }).join('');
   const ord={hoy:0,reciente:1,cerca:2};
   const key={status:x=>ord[x.status]*100-(x.vol_ratio||0),vol:x=>-(x.vol_ratio||0),base:x=>-(x.base_days||0),rank:x=>x.rank||9999,chg24h:x=>-(x.chg24h||-999),dist:x=>-(x.from_ath||-999)}[state.asort];
   const l=all.filter(x=>state.ath.has(x.status)).sort((a,b)=>key(a)-key(b));
@@ -647,7 +678,7 @@ function renderAth(){
       <td class="num"><span class="cell" style="background:${heatBg(x.chg24h,8)}">${pctS(x.chg24h)}</span></td>
       <td class="num"><span class="cell" style="background:${heatBg(x.chg30d,40)}">${pctS(x.chg30d)}</span></td>
       <td class="num"><span class="val ${rc}">${x.rsi!=null?num(x.rsi,0):'–'}</span></td>
-      <td>${athSpark(x.spark,x.ath)}</td><td><div class="sigs">${sigHtml(x.signals)}</div></td></tr>`; }).join('')||'<tr><td colspan="13"><div class="err">Ninguna moneda cumple estos filtros ahora mismo. Baja el volumen mínimo o activa más estados.</div></td></tr>';
+      <td>${athSpark(x.spark,x.ath)}</td><td>${exCell(x)}</td><td><div class="sigs">${sigHtml(x.signals)}</div></td></tr>`; }).join('')||'<tr><td colspan="14"><div class="err">Ninguna moneda cumple estos filtros ahora mismo. Baja el volumen mínimo o activa más estados.</div></td></tr>';
   $('#athNote').textContent = y1
     ? 'Máximo de 1 año: el cierre diario supera el precio más alto de los 365 días anteriores. Se analizan todos los pares contra USDT de Binance con más de 2 M$ de volumen medio. Muchas monedas siguen lejos de su máximo histórico de ciclos anteriores; esta vista detecta antes las que están rompiendo su rango.'
     : 'Máximo histórico según CoinGecko, entre las 1.000 mayores monedas. "Rompe hoy": nuevo máximo en las últimas 36 horas y a menos de un 3 %. El margen de "cerca" es mayor que en acciones porque las criptomonedas se mueven mucho más. La base (tiempo sin superar el máximo anterior), el volumen relativo y las señales se calculan con el historial diario de Binance cuando la moneda cotiza allí. "Extendida" avisa de que el precio está más de un 30 % por encima de su media de 50 días.';
@@ -730,8 +761,9 @@ let timer; function renderNext(){ clearInterval(timer);
   tick(); timer=setInterval(tick,1000); }
 
 document.addEventListener('click',e=>{
-  const hc=e.target.closest('.hc'); if(hc){ const r=document.getElementById('ath-'+hc.dataset.goto); if(r){ r.scrollIntoView({block:'center',behavior:'smooth'}); r.classList.remove('flash'); void r.offsetWidth; r.classList.add('flash'); } return; }
+  const hc=e.target.closest('.hc'); if(hc && !e.target.closest('button')){ const r=document.getElementById('ath-'+hc.dataset.goto); if(r){ r.scrollIntoView({block:'center',behavior:'smooth'}); r.classList.remove('flash'); void r.offsetWidth; r.classList.add('flash'); } return; }
   if(e.target.closest('#catPop .x')){ closeCat(); return; }
+  const eb=e.target.closest('button.exmore'); if(eb){ eb===popFor&&!$('#catPop').hidden?closeCat():openEx(eb); return; }
   const cb=e.target.closest('button.cat'); if(cb){ clearTimeout(hoverT); cb===popFor&&!$('#catPop').hidden?closeCat():openCat(cb); return; }
   if(!e.target.closest('#catPop') && !$('#catPop').hidden) closeCat();
   const b=e.target.closest('button'); if(!b)return;
