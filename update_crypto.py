@@ -436,10 +436,45 @@ def block_categories() -> list[dict]:
                      r"alleged|fan token|made in|world liberty|grayscale|pantera|a16z|delphi|galaxy|"
                      r"multicoin|dwf|paradigm|polychain|andreessen|launchpool|launchpad|holdings", c["name"], re.I):
             continue
-        out.append({"name": c["name"], "mcap": c["market_cap"], "chg24h": c.get("market_cap_change_24h"),
-                    "volume": c.get("volume_24h")})
+        out.append({"id": c.get("id"), "name": c["name"], "mcap": c["market_cap"],
+                    "chg24h": c.get("market_cap_change_24h"), "volume": c.get("volume_24h"),
+                    "top3": c.get("top_3_coins_id") or []})
     out.sort(key=lambda r: -r["mcap"])
     return out[:36]
+
+
+MEMBERS_MAX_AGE_H = 6      # la composición de los sectores cambia poco: se refresca cada 6 h
+
+
+def block_category_members(cats: list[dict], prev: dict | None, prev_when: str | None) -> dict:
+    """Principales monedas de cada sector (para la ventana emergente de la web)."""
+    prev = prev or {}
+    fresh = False
+    if prev_when:
+        try:
+            fresh = (NOW_DT - datetime.fromisoformat(prev_when)).total_seconds() < MEMBERS_MAX_AGE_H * 3600
+        except Exception:
+            fresh = False
+    out = {}
+    for c in cats:
+        cid = c.get("id")
+        if not cid:
+            continue
+        if fresh and cid in prev:
+            out[cid] = prev[cid]
+            continue
+        try:
+            rows = cg("/coins/markets", vs_currency="usd", category=cid, order="market_cap_desc",
+                      per_page=12, page=1, price_change_percentage="24h,7d", sparkline="false")
+            out[cid] = [{"symbol": (r.get("symbol") or "").upper(), "name": r.get("name"),
+                         "price": r.get("current_price"), "mcap": r.get("market_cap"),
+                         "chg24h": r.get("price_change_percentage_24h_in_currency"),
+                         "chg7d": r.get("price_change_percentage_7d_in_currency")} for r in rows]
+        except Exception as e:
+            print(f"  aviso sector {cid}: {e}")
+            if cid in prev:
+                out[cid] = prev[cid]
+    return out
 
 
 # --------------------------------------------------------------------------
@@ -528,7 +563,13 @@ def main():
         run("ath_breadth", block_ath_breadth, markets)
         run("high_1y", block_high_1y, markets)
     run("derivs", block_derivs)
-    run("categories", block_categories)
+    cats = run("categories", block_categories)
+    if cats:
+        prev_when = out.get("category_members_updated")
+        before = out.get("category_members")
+        members = run("category_members", block_category_members, cats, before, prev_when)
+        if members is not None and members != before:
+            out["category_members_updated"] = NOW
     out.update({"updated": NOW, "sample": False,
                 "source": "CoinGecko, alternative.me, DefiLlama, Hyperliquid y Binance"})
     path.write_text(json.dumps(out, ensure_ascii=False, indent=1, default=_jsonable), encoding="utf-8")

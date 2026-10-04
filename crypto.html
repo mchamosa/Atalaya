@@ -347,6 +347,24 @@ footer{color:var(--faint);font-size:12.5px;padding:8px 0 34px;max-width:90ch}
 .sigs span.good,.hc .tg span.good{border-color:color-mix(in srgb,var(--bull) 50%,transparent);color:var(--bull)}
 .sigs span.gold,.hc .tg span.gold{border-color:var(--gold);color:var(--gold)}
 tr.flash td{animation:flash 1.6s ease-out}
+
+/* Ventana emergente de sectores */
+button.cat{width:100%;background:none;border:0;border-bottom:1px solid color-mix(in srgb,var(--line) 60%,transparent);text-align:left;cursor:pointer;color:inherit;font:inherit;border-radius:4px}
+button.cat:hover,button.cat[aria-expanded="true"]{background:var(--panel-2)}
+.cat .n .more{font:500 11px var(--cond);color:var(--gold);margin-left:4px}
+.pop{position:fixed;z-index:50;width:min(480px,calc(100vw - 24px));max-height:min(480px,calc(100vh - 24px));overflow:auto;
+  background:var(--panel);border:1px solid color-mix(in srgb,var(--gold) 45%,var(--line));border-radius:12px;
+  box-shadow:0 18px 50px -12px rgba(0,0,0,.6);padding:12px 14px}
+.pop[hidden]{display:none}
+.pop h3{font:700 18px var(--cond);margin:0 28px 2px 0}
+.pop .sub2{font-size:12.5px;color:var(--mute);margin-bottom:8px}
+.pop .x{position:absolute;top:8px;right:8px;background:none;border:1px solid var(--line);border-radius:6px;width:26px;height:26px;cursor:pointer;color:var(--mute);font:600 15px var(--cond)}
+.pop table{width:100%}
+.pop table td{padding:5px 6px}
+.pop .coin small{max-width:110px;overflow:hidden;text-overflow:ellipsis;display:inline-block;vertical-align:bottom}
+.pop table th{position:static;padding:5px 6px}
+.share{height:6px;border-radius:3px;background:var(--gold);opacity:.8;min-width:2px}
+@media (max-width:640px){.pop{left:12px!important;right:12px;top:auto!important;bottom:12px;width:auto}}
 </style>
 </head>
 <body>
@@ -482,7 +500,7 @@ tr.flash td{animation:flash 1.6s ease-out}
     <aside class="panel" aria-labelledby="catTitle">
       <div class="panel-h">
         <h2 id="catTitle">Sectores en 24 h</h2>
-        <span class="src">Categorías de CoinGecko de más de 1.000 M$</span>
+        <span class="src">Pulsa un sector para ver sus monedas</span>
       </div>
       <div class="cats" id="cats"></div>
     </aside>
@@ -506,6 +524,8 @@ tr.flash td{animation:flash 1.6s ease-out}
       <p class="note">El dólar, los tipos y la inflación de EE. UU. son lo que más mueve a bitcoin fuera del propio mercado cripto.</p>
     </aside>
   </div>
+
+  <div class="pop" id="catPop" role="dialog" aria-modal="false" aria-labelledby="catPopT" hidden></div>
 
   <footer>
     Datos: CoinGecko (precios, capitalización, máximos y sectores), alternative.me (Miedo y Codicia), DefiLlama (stablecoins), Hyperliquid (derivados), Binance (velas diarias), Forex Factory (agenda macro) y titulares RSS de CoinDesk, Cointelegraph, Decrypt y Bitcoin Magazine. Se actualiza cada 30 minutos. El tono de los titulares se estima por palabras clave. Nada de esta página es asesoramiento financiero. Hecho por Marcos Chamosa.
@@ -644,8 +664,42 @@ function renderCats(){
   const c=state.c?.categories; if(!c){$('#cats').innerHTML=state.c?.error?errBox('crypto.json'):'';return;}
   const mx=Math.max(...c.map(x=>Math.abs(x.chg24h||0)),1);
   $('#cats').innerHTML=[...c].sort((a,b)=>(b.chg24h??-99)-(a.chg24h??-99)).map(x=>{ const v=x.chg24h??0, w=Math.abs(v)/mx*50, l=v>=0?50:50-w;
-    return `<div class="cat"><span class="n">${esc(x.name)}<small>${usd(x.mcap)}</small></span><div class="biasbar" style="min-width:0"><i style="left:${l}%;width:${w}%;background:var(--${v>=0?'bull':'bear'})"></i></div><span class="p ${v>=0?'up':'dn'}">${pctS(v)}</span></div>`; }).join('');
+    return `<button type="button" class="cat" data-cat="${esc(x.id||x.name)}" aria-haspopup="dialog" aria-expanded="false" title="Ver las monedas de este sector"><span class="n">${esc(x.name)}<small>${usd(x.mcap)}<span class="more">ver monedas</span></small></span><div class="biasbar" style="min-width:0"><i style="left:${l}%;width:${w}%;background:var(--${v>=0?'bull':'bear'})"></i></div><span class="p ${v>=0?'up':'dn'}">${pctS(v)}</span></button>`; }).join('');
 }
+let popFor=null;
+const prettyId=id=>id.split('-').map(w=>w[0]?.toUpperCase()+w.slice(1)).join(' ');
+function openCat(btn){
+  const id=btn.dataset.cat, cat=(state.c.categories||[]).find(x=>(x.id||x.name)===id); if(!cat)return;
+  const pop=$('#catPop'), mem=(state.c.category_members||{})[cat.id];
+  let body;
+  if(mem&&mem.length){
+    const tot=mem.reduce((s,m)=>s+(m.mcap||0),0)||1, mxs=Math.max(...mem.map(m=>m.mcap||0))||1;
+    body=`<table><thead><tr><th>Moneda</th><th class="num">Precio</th><th class="num">24 h</th><th class="num">7 días</th><th>Peso</th></tr></thead><tbody>${mem.map(m=>`<tr>
+      <td><span class="coin"><b>${esc(m.symbol)}</b><small>${esc(m.name)}</small></span></td>
+      <td class="num"><span class="val">${price(m.price)}</span></td>
+      <td class="num"><span class="cell" style="background:${heatBg(m.chg24h,8)}">${pctS(m.chg24h)}</span></td>
+      <td class="num"><span class="cell" style="background:${heatBg(m.chg7d,20)}">${pctS(m.chg7d)}</span></td>
+      <td style="width:60px"><div class="share" style="width:${Math.max(3,(m.mcap||0)/mxs*100)}%" title="${num((m.mcap||0)/tot*100,0)} % de estas ${mem.length}"></div></td></tr>`).join('')}</tbody></table>`;
+  } else if(cat.top3&&cat.top3.length){
+    body=`<p class="sub2">Principales monedas: ${cat.top3.map(t=>`<b>${esc(prettyId(t))}</b>`).join(', ')}.</p><p class="sub2">La lista completa con precios aparecerá en la próxima actualización de datos.</p>`;
+  } else body='<p class="sub2">Todavía no hay detalle de las monedas de este sector.</p>';
+  pop.innerHTML=`<button class="x" type="button" aria-label="Cerrar">×</button><h3 id="catPopT">${esc(cat.name)}</h3>
+    <div class="sub2">Capitalización ${usd(cat.mcap)}, <span class="${(cat.chg24h||0)>=0?'up':'dn'}">${pctS(cat.chg24h)}</span> en 24 h${mem&&mem.length?`. Sus ${mem.length} mayores monedas:`:''}</div>${body}`;
+  pop.hidden=false;
+  document.querySelectorAll('button.cat').forEach(x=>x.setAttribute('aria-expanded',x===btn));
+  popFor=btn;
+  const r=btn.getBoundingClientRect(), pw=pop.offsetWidth, ph=pop.offsetHeight;
+  let left=r.left-pw-12; if(left<12) left=Math.min(window.innerWidth-pw-12, r.left);
+  let top=r.top+r.height/2-ph/2; top=Math.max(12,Math.min(window.innerHeight-ph-12,top));
+  if(r.left-pw-12<12){ top=r.bottom+8; if(top+ph>window.innerHeight-12) top=Math.max(12,r.top-ph-8); }
+  pop.style.left=left+'px'; pop.style.top=top+'px';
+}
+function closeCat(){ $('#catPop').hidden=true; document.querySelectorAll('button.cat').forEach(x=>x.setAttribute('aria-expanded','false')); if(popFor){ const f=popFor; popFor=null; return f; } }
+document.addEventListener('keydown',e=>{ if(e.key==='Escape'&&!$('#catPop').hidden){ const f=closeCat(); f&&f.focus(); } });
+window.addEventListener('scroll',()=>{ if(!$('#catPop').hidden && matchMedia('(min-width:641px)').matches) closeCat(); },{passive:true});
+let hoverT;
+document.addEventListener('mouseover',e=>{ if(!matchMedia('(hover:hover)').matches)return; const b=e.target.closest('button.cat'); if(b&&b!==popFor){ clearTimeout(hoverT); hoverT=setTimeout(()=>openCat(b),350); } });
+document.addEventListener('mouseout',e=>{ const b=e.target.closest('button.cat'); if(b) clearTimeout(hoverT); });
 function renderTags(){
   const items=state.n?.items||[], cnt={}; items.forEach(n=>(n.tags||[]).forEach(t=>cnt[t]=(cnt[t]||0)+1));
   $('#tagFilters').innerHTML=`<button class="chip" data-tag="" aria-pressed="${!state.tag}">Todos</button>`+Object.keys(cnt).sort((a,b)=>cnt[b]-cnt[a]).map(t=>`<button class="chip" data-tag="${esc(t)}" aria-pressed="${state.tag===t}">${esc(t)} <span style="color:var(--faint)">${cnt[t]}</span></button>`).join('');
@@ -677,6 +731,9 @@ let timer; function renderNext(){ clearInterval(timer);
 
 document.addEventListener('click',e=>{
   const hc=e.target.closest('.hc'); if(hc){ const r=document.getElementById('ath-'+hc.dataset.goto); if(r){ r.scrollIntoView({block:'center',behavior:'smooth'}); r.classList.remove('flash'); void r.offsetWidth; r.classList.add('flash'); } return; }
+  if(e.target.closest('#catPop .x')){ closeCat(); return; }
+  const cb=e.target.closest('button.cat'); if(cb){ clearTimeout(hoverT); cb===popFor&&!$('#catPop').hidden?closeCat():openCat(cb); return; }
+  if(!e.target.closest('#catPop') && !$('#catPop').hidden) closeCat();
   const b=e.target.closest('button'); if(!b)return;
   if(b.dataset.mode){ state.mode=b.dataset.mode; renderAth(); return; }
   if(b.dataset.hp){state.hp=b.dataset.hp;document.querySelectorAll('[data-hp]').forEach(x=>x.setAttribute('aria-pressed',x===b));renderTiles();}
