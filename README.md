@@ -1,4 +1,6 @@
-# ChamosaNews
+# Atalaya
+
+*Vigía de mercados y cripto, por Marcos Chamosa.*
 
 Panel estático para GitHub Pages con:
 

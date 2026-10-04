@@ -1,5 +1,5 @@
 """
-ChamosaNews Cripto - actualizador de datos
+Atalaya Cripto - actualizador de datos
 Autor: Marcos Chamosa
 
 Genera data/crypto.json y data/crypto_news.json con fuentes gratuitas:

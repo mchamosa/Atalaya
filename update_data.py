@@ -1,5 +1,5 @@
 """
-ChamosaNews - actualizador de datos
+Atalaya - actualizador de datos de mercados
 Autor: Marcos Chamosa
 
 Descarga de fuentes gratuitas (sin API key) y guarda JSON en /data:
