@@ -1,8 +1,16 @@
 {
- "updated": "2026-10-04T02:33:00+00:00",
+ "updated": "2026-10-04T08:45:49+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+   "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-04T07:16:53+00:00",
+   "tags": [],
+   "score": 0
+  },
   {
    "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
    "link": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
@@ -693,14 +701,6 @@
    "tags": [
     "Bitcoin"
    ],
-   "score": 0
-  },
-  {
-   "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
-   "link": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-01T21:00:11+00:00",
-   "tags": [],
    "score": 0
   },
   {
