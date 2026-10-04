@@ -1,8 +1,47 @@
 {
- "updated": "2026-10-04T14:45:34+00:00",
+ "updated": "2026-10-04T18:37:13+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "There's an election next month: State of Crypto",
+   "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+   "source": "CoinDesk",
+   "published": "2026-10-04T18:30:00+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+   "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+   "source": "Decrypt",
+   "published": "2026-10-04T17:01:03+00:00",
+   "tags": [
+    "XRP",
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+   "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+   "source": "Decrypt",
+   "published": "2026-10-04T16:01:03+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+   "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+   "source": "Decrypt",
+   "published": "2026-10-04T15:01:03+00:00",
+   "tags": [
+    "Bitcoin",
+    "ETF",
+    "Fed"
+   ],
+   "score": 0
+  },
   {
    "title": "Crypto poured years into new products. The next challenge is keeping users",
    "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
@@ -890,14 +929,6 @@
    "score": 0
   },
   {
-   "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
-   "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
-   "source": "CoinDesk",
-   "published": "2026-10-01T11:58:00+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
    "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
    "source": "Decrypt",
@@ -964,37 +995,6 @@
     "Hackeos"
    ],
    "score": -1
-  },
-  {
-   "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
-   "link": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
-   "source": "Decrypt",
-   "published": "2026-09-30T19:16:02+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-   "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
-   "source": "Decrypt",
-   "published": "2026-09-30T18:39:21+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-   "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-   "source": "Decrypt",
-   "published": "2026-09-30T17:27:43+00:00",
-   "tags": [
-    "Bitcoin",
-    "ETF"
-   ],
-   "score": 1
   }
  ]
 }
