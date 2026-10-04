@@ -188,16 +188,16 @@
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Cripto",
-   "price": 85245.27,
-   "chg1d": 0.57,
-   "chg5d": 1.94,
-   "chg1m": 9.06,
-   "rsi": 65.2,
+   "price": 85641.99,
+   "chg1d": 1.04,
+   "chg5d": 2.42,
+   "chg1m": 9.57,
+   "rsi": 66.3,
    "above_sma50": true,
    "above_sma200": true,
-   "bias": 89
+   "bias": 93
   }
  ],
- "updated": "2026-10-04T13:33:25+00:00",
+ "updated": "2026-10-04T20:37:52+00:00",
  "sample": false
 }

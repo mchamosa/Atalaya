@@ -2,6 +2,16 @@
  "source": "Expansión, FXStreet, ForexLive, Investing.com",
  "items": [
   {
+   "title": "El asesor de Trump, Hassett, pide a Powell que abandone la Fed",
+   "link": "https://es.investing.com/news/economy-news/el-asesor-de-trump-hassett-pide-a-powell-que-abandone-la-fed-3859784",
+   "source": "Investing.com",
+   "published": "2026-10-04T16:36:20+00:00",
+   "tags": [
+    "Fed"
+   ],
+   "score": 0
+  },
+  {
    "title": "Rusia ataca por segundo día el puente de Kiev mientras arrecia la ofensiva",
    "link": "https://es.investing.com/news/economy-news/rusia-ataca-por-segundo-dia-el-puente-de-kiev-mientras-arrecia-la-ofensiva-3859770",
    "source": "Investing.com",
@@ -44,7 +54,7 @@
    "score": 0
   },
   {
-   "title": "Irán mantiene el Hormuz cerrado mientras las negociaciones con Washington siguen bloqueadas",
+   "title": "El gobierno de Yemen lanza ofensiva para recuperar zonas huthis",
    "link": "https://es.investing.com/news/economy-news/los-huties-atacan-instalacion-de-saudi-aramco-mientras-se-intensifica-el-conflicto-en-yemen-3859752",
    "source": "Investing.com",
    "published": "2026-10-04T04:08:47+00:00",
@@ -68,7 +78,7 @@
    "score": 0
   },
   {
-   "title": "La Casa Blanca crea un grupo de trabajo sobre inteligencia artificial",
+   "title": "Trump nombra a Clayton, Ferguson, Michael y Kupor para liderar el grupo de trabajo sobre IA",
    "link": "https://es.investing.com/news/economy-news/la-casa-blanca-crea-un-grupo-de-trabajo-sobre-inteligencia-artificial-3859739",
    "source": "Investing.com",
    "published": "2026-10-03T22:59:47+00:00",
@@ -120,14 +130,6 @@
    "published": "2026-10-03T18:43:34+00:00",
    "tags": [],
    "score": 0
-  },
-  {
-   "title": "Bessent: la subida de los rendimientos del Tesoro refleja una tendencia global",
-   "link": "https://es.investing.com/news/economy-news/bessent-la-subida-de-los-rendimientos-del-tesoro-refleja-una-tendencia-global-3859724",
-   "source": "Investing.com",
-   "published": "2026-10-03T16:49:38+00:00",
-   "tags": [],
-   "score": 1
   },
   {
    "title": "El Tesoro emitirá este martes Letras a 6 y 12 meses",
@@ -1147,6 +1149,6 @@
    "score": 1
   }
  ],
- "updated": "2026-10-04T13:33:25+00:00",
+ "updated": "2026-10-04T20:37:52+00:00",
  "sample": false
 }
