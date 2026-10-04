@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T22:42:48+00:00",
+ "updated": "2026-10-04T02:33:00+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
@@ -997,20 +997,6 @@
    "published": "2026-09-30T16:36:10+00:00",
    "tags": [
     "Solana"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
-   "link": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
-   "source": "Decrypt",
-   "published": "2026-01-23T16:40:55+00:00",
-   "tags": [
-    "Bitcoin",
-    "Ethereum",
-    "Solana",
-    "XRP",
-    "Regulación"
    ],
    "score": 0
   }
