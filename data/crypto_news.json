@@ -1,8 +1,302 @@
 {
- "updated": "2026-10-05T06:57:03+00:00",
+ "updated": "2026-10-05T15:56:23+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "Strategy Reports Quarterly Profit on Bitcoin Rally",
+   "link": "https://bitcoinmagazine.com/news/strategy-announces-profits-last-quarter",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-05T16:14:17+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
+   "link": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
+   "source": "Decrypt",
+   "published": "2026-10-05T16:10:00+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
+   "link": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
+   "source": "Decrypt",
+   "published": "2026-10-05T16:03:03+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
+   "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+   "source": "CoinDesk",
+   "published": "2026-10-05T15:54:23+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin price fails to break higher after best weekly close in eight months",
+   "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T15:09:57+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
+   "link": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
+   "source": "Decrypt",
+   "published": "2026-10-05T14:54:17+00:00",
+   "tags": [
+    "Ethereum"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
+   "link": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T13:47:17+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+   "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+   "source": "CoinDesk",
+   "published": "2026-10-05T13:46:31+00:00",
+   "tags": [
+    "Stablecoins"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
+   "link": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T13:22:16+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T13:04:57+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación",
+    "DeFi"
+   ],
+   "score": 0
+  },
+  {
+   "title": "China P2P stablecoin wallets grew 43x despite crypto restrictions: Chainalysis",
+   "link": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T13:00:00+00:00",
+   "tags": [
+    "Stablecoins"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC",
+   "link": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
+   "source": "Decrypt",
+   "published": "2026-10-05T12:51:42+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Too big to pause: Could an AI slowdown crash the economy?",
+   "link": "https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T12:30:00+00:00",
+   "tags": [],
+   "score": -1
+  },
+  {
+   "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
+   "link": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
+   "source": "CoinDesk",
+   "published": "2026-10-05T12:28:35+00:00",
+   "tags": [
+    "XRP"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point",
+   "link": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
+   "source": "Decrypt",
+   "published": "2026-10-05T12:04:01+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Morning Minute: Uptober Off to a Green Start",
+   "link": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
+   "source": "Decrypt",
+   "published": "2026-10-05T11:39:08+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
+   "link": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
+   "source": "Decrypt",
+   "published": "2026-10-05T11:18:01+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
+   "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+   "source": "CoinDesk",
+   "published": "2026-10-05T11:14:35+00:00",
+   "tags": [
+    "Bitcoin",
+    "Ethereum",
+    "Regulación"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
+   "link": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
+   "source": "CoinDesk",
+   "published": "2026-10-05T11:08:03+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
+   "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+   "source": "CoinDesk",
+   "published": "2026-10-05T10:58:03+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
+   "link": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
+   "source": "CoinDesk",
+   "published": "2026-10-05T10:44:55+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Live updates: Bitcoin under pressure as rates continue to rise",
+   "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
+   "source": "CoinDesk",
+   "published": "2026-10-05T10:39:57+00:00",
+   "tags": [
+    "Bitcoin",
+    "Fed"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Cardano's ADA leads gains in narrow range-bound market",
+   "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+   "source": "CoinDesk",
+   "published": "2026-10-05T10:37:30+00:00",
+   "tags": [],
+   "score": 1
+  },
+  {
+   "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+   "link": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
+   "source": "Decrypt",
+   "published": "2026-10-05T10:22:27+00:00",
+   "tags": [
+    "Regulación",
+    "Stablecoins"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
+   "link": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T10:11:26+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
+   "link": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
+   "source": "CoinDesk",
+   "published": "2026-10-05T09:37:13+00:00",
+   "tags": [
+    "Bitcoin",
+    "Ethereum"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
+   "link": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
+   "source": "CoinDesk",
+   "published": "2026-10-05T09:26:24+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
+   "link": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T09:08:09+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
+   "link": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T08:56:10+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
+   "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T08:00:49+00:00",
+   "tags": [
+    "Bitcoin",
+    "Ethereum",
+    "ETF"
+   ],
+   "score": 1
+  },
   {
    "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
    "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
@@ -14,24 +308,12 @@
    "score": 1
   },
   {
-   "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+   "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
    "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
    "source": "CoinDesk",
    "published": "2026-10-05T06:40:29+00:00",
    "tags": [
     "Ethereum"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-05T05:00:00+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación",
-    "DeFi"
    ],
    "score": 0
   },
@@ -339,16 +621,6 @@
    "score": 0
   },
   {
-   "title": "Bank group sues U.S. regulator over granting crypto trust charters",
-   "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-   "source": "CoinDesk",
-   "published": "2026-10-02T21:23:20+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
    "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
    "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
    "source": "Decrypt",
@@ -439,14 +711,6 @@
    "score": 0
   },
   {
-   "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-   "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-   "source": "CoinDesk",
-   "published": "2026-10-02T17:34:40+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
    "link": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion",
    "source": "Decrypt",
@@ -455,26 +719,6 @@
     "Fed"
    ],
    "score": 1
-  },
-  {
-   "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-   "link": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
-   "source": "CoinDesk",
-   "published": "2026-10-02T17:15:35+00:00",
-   "tags": [
-    "Ethereum"
-   ],
-   "score": -1
-  },
-  {
-   "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
-   "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-   "source": "CoinDesk",
-   "published": "2026-10-02T17:12:48+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 0
   },
   {
    "title": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
@@ -544,14 +788,6 @@
    "score": 0
   },
   {
-   "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
-   "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
-   "source": "CoinDesk",
-   "published": "2026-10-02T13:22:19+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "Impacts of Daily Dividends on Digital Credit",
    "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/impacts-of-daily-dividends-on-digital-credit",
    "source": "Bitcoin Magazine",
@@ -573,27 +809,6 @@
    "score": 1
   },
   {
-   "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
-   "link": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
-   "source": "CoinDesk",
-   "published": "2026-10-02T12:31:53+00:00",
-   "tags": [
-    "Fed"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
-   "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T12:25:56+00:00",
-   "tags": [
-    "Regulación",
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
    "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
    "link": "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack",
    "source": "Decrypt",
@@ -604,106 +819,12 @@
    "score": -1
   },
   {
-   "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-   "link": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T11:40:21+00:00",
-   "tags": [
-    "ETF"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Cboe wants to turn VIX into a never-ending trade",
-   "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-   "source": "CoinDesk",
-   "published": "2026-10-02T11:30:00+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "US Designates Russia's A7 Network as Transnational Criminal Organization",
    "link": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
    "source": "Decrypt",
    "published": "2026-10-02T11:28:41+00:00",
    "tags": [],
    "score": 0
-  },
-  {
-   "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
-   "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-   "source": "CoinDesk",
-   "published": "2026-10-02T11:22:40+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 1
-  },
-  {
-   "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
-   "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T10:54:33+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-   "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-   "source": "CoinDesk",
-   "published": "2026-10-02T10:31:16+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
-   "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
-   "link": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T10:29:35+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Bitcoin reaches for $87K as short liquidations top $120M",
-   "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T09:37:06+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": -1
-  },
-  {
-   "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-   "link": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T09:30:49+00:00",
-   "tags": [
-    "Hackeos"
-   ],
-   "score": -1
-  },
-  {
-   "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
-   "link": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T09:18:52+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
-   "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-   "source": "CoinDesk",
-   "published": "2026-10-02T09:14:21+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 2
   },
   {
    "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
@@ -714,37 +835,6 @@
     "Regulación"
    ],
    "score": 0
-  },
-  {
-   "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
-   "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-   "source": "CoinDesk",
-   "published": "2026-10-02T08:28:19+00:00",
-   "tags": [
-    "Bitcoin",
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
-   "link": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T08:20:08+00:00",
-   "tags": [
-    "Bitcoin",
-    "Ethereum",
-    "ETF"
-   ],
-   "score": 1
-  },
-  {
-   "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
-   "link": "https://cointelegraph.com/news/south-korea-crypto-exchange-profits-fall-78-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T05:53:27+00:00",
-   "tags": [],
-   "score": -2
   },
   {
    "title": "Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold",
@@ -827,16 +917,6 @@
    "score": 0
   },
   {
-   "title": "Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin",
-   "link": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-01T20:15:36+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
    "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
    "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
    "source": "Decrypt",
@@ -909,109 +989,6 @@
    "source": "Decrypt",
    "published": "2026-10-01T13:22:58+00:00",
    "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
-   "link": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
-   "source": "Decrypt",
-   "published": "2026-10-01T12:29:00+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-   "link": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-   "source": "Decrypt",
-   "published": "2026-10-01T12:23:15+00:00",
-   "tags": [
-    "Bitcoin",
-    "Ethereum"
-   ],
-   "score": 0
-  },
-  {
-   "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
-   "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
-   "source": "Decrypt",
-   "published": "2026-10-01T09:38:06+00:00",
-   "tags": [
-    "Ethereum",
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
-   "link": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
-   "source": "Decrypt",
-   "published": "2026-10-01T08:56:02+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
-   "link": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
-   "source": "Decrypt",
-   "published": "2026-09-30T23:20:59+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
-   "link": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
-   "source": "Decrypt",
-   "published": "2026-09-30T21:46:03+00:00",
-   "tags": [
-    "DeFi",
-    "Memecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
-   "link": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
-   "source": "Decrypt",
-   "published": "2026-09-30T21:16:04+00:00",
-   "tags": [
-    "Hackeos"
-   ],
-   "score": -1
-  },
-  {
-   "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
-   "link": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
-   "source": "Decrypt",
-   "published": "2026-09-30T20:31:04+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
-   "link": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
-   "source": "Decrypt",
-   "published": "2026-09-30T19:46:04+00:00",
-   "tags": [
-    "Hackeos"
-   ],
-   "score": -1
-  },
-  {
-   "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
-   "link": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
-   "source": "Decrypt",
-   "published": "2026-01-23T16:40:55+00:00",
-   "tags": [
-    "Bitcoin",
-    "Ethereum",
-    "Solana",
-    "XRP",
-    "Regulación"
-   ],
    "score": 0
   }
  ]
