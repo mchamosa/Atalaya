@@ -1,8 +1,28 @@
 {
- "updated": "2026-10-04T21:55:08+00:00",
+ "updated": "2026-10-05T00:50:50+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "Zcash gets a Washington lobbyist to push crypto policy",
+   "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-05T00:35:34+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+   "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-04T22:31:12+00:00",
+   "tags": [
+    "Bitcoin",
+    "XRP",
+    "Regulación"
+   ],
+   "score": 0
+  },
   {
    "title": "Here’s what happened in crypto today",
    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -278,16 +298,6 @@
    "tags": [
     "Regulación",
     "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "When the Banks Don’t Work, Bitcoin Does: Cornell University’s Adoption Index",
-   "link": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-02T19:15:58+00:00",
-   "tags": [
-    "Bitcoin"
    ],
    "score": 0
   },
@@ -686,26 +696,6 @@
    "score": 0
   },
   {
-   "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
-   "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T03:34:25+00:00",
-   "tags": [
-    "Ethereum"
-   ],
-   "score": 0
-  },
-  {
-   "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
-   "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T02:02:13+00:00",
-   "tags": [
-    "Hackeos"
-   ],
-   "score": -1
-  },
-  {
    "title": "Frank Holmes: They Will Print $100 Trillion – Why to Buy Bitcoin & Gold",
    "link": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
    "source": "Bitcoin Magazine",
@@ -792,6 +782,16 @@
    "published": "2026-10-01T20:20:04+00:00",
    "tags": [
     "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin",
+   "link": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-01T20:15:36+00:00",
+   "tags": [
+    "Bitcoin"
    ],
    "score": 0
   },
@@ -995,20 +995,6 @@
     "Hackeos"
    ],
    "score": -1
-  },
-  {
-   "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
-   "link": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
-   "source": "Decrypt",
-   "published": "2026-01-23T16:40:55+00:00",
-   "tags": [
-    "Bitcoin",
-    "Ethereum",
-    "Solana",
-    "XRP",
-    "Regulación"
-   ],
-   "score": 0
   }
  ]
 }
