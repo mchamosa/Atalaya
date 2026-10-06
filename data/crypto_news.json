@@ -1,8 +1,29 @@
 {
- "updated": "2026-10-05T22:35:13+00:00",
+ "updated": "2026-10-06T02:29:18+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+   "link": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+   "source": "Decrypt",
+   "published": "2026-10-06T02:01:03+00:00",
+   "tags": [
+    "Solana",
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
+   "link": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-06T01:47:24+00:00",
+   "tags": [
+    "Hackeos"
+   ],
+   "score": 0
+  },
   {
    "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
    "link": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
@@ -862,16 +883,6 @@
    "score": -1
   },
   {
-   "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-   "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-02T20:40:47+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
    "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
    "link": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
    "source": "Decrypt",
@@ -996,14 +1007,6 @@
    "link": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
    "source": "Decrypt",
    "published": "2026-10-01T20:31:03+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-   "link": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
-   "source": "Decrypt",
-   "published": "2026-10-01T19:46:03+00:00",
    "tags": [],
    "score": 0
   }
