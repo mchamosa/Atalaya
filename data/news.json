@@ -2,10 +2,367 @@
  "source": "Expansión, FXStreet, ForexLive, Investing.com",
  "items": [
   {
-   "title": "El Ibex, condicionado por el euro, la deuda y la política",
-   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/05/6ac33c2f468aeb7e468b4590.html",
+   "title": "El Dólar australiano se mantiene estable en medio de un débil sentimiento de los consumidores",
+   "link": "https://www.fxstreet.es/news/el-dolar-australiano-se-mantiene-estable-en-medio-de-un-debil-sentimiento-de-los-consumidores-202610060123",
+   "source": "FXStreet",
+   "published": "2026-10-06T01:23:34+00:00",
+   "tags": [
+    "Dólar"
+   ],
+   "score": -1
+  },
+  {
+   "title": "El Dólar canadiense parece vulnerable cerca de los mínimos de abril de 2025 ante la debilidad de los precios del petróleo y el sesgo alcista del USD",
+   "link": "https://www.fxstreet.es/news/el-dolar-canadiense-parece-vulnerable-cerca-de-los-minimos-de-abril-de-2025-ante-la-debilidad-de-los-precios-del-petroleo-y-el-sesgo-alcista-del-usd-202610060111",
+   "source": "FXStreet",
+   "published": "2026-10-06T01:11:30+00:00",
+   "tags": [
+    "Dólar",
+    "Petróleo"
+   ],
+   "score": -2
+  },
+  {
+   "title": "El WTI cae cerca de 88.50$ tras la publicación de las reservas del G7",
+   "link": "https://www.fxstreet.es/news/el-wti-cae-cerca-de-8850-tras-la-publicacion-de-las-reservas-del-g7-202610060058",
+   "source": "FXStreet",
+   "published": "2026-10-06T00:58:59+00:00",
+   "tags": [
+    "Petróleo"
+   ],
+   "score": -1
+  },
+  {
+   "title": "Elecciones generales 29-N: Los grandes inversores vigilan los cambios regulatorios",
+   "link": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/06/6ac3f24a468aeb08078b45af.html",
    "source": "Expansión",
-   "published": "2026-10-05T11:49:48+00:00",
+   "published": "2026-10-06T00:52:36+00:00",
+   "tags": [
+    "Bolsa"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Trump firma una orden que permite el uso en carretera del gasóleo tintado exento de impuestos",
+   "link": "https://es.investing.com/news/economy-news/trump-firma-una-orden-que-permite-el-uso-en-carretera-del-gasoleo-tintado-exento-de-impuestos-3861651",
+   "source": "Investing.com",
+   "published": "2026-10-06T00:36:13+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Chalmers warns rising global bond yields will pressure Australia's federal budget",
+   "link": "https://investinglive.com/news/chalmers-warns-rising-global-bond-yields-will-pressure-australia-s-federal-budget/",
+   "source": "ForexLive",
+   "published": "2026-10-06T00:28:42+00:00",
+   "tags": [
+    "Fed",
+    "Bonos"
+   ],
+   "score": 0
+  },
+  {
+   "title": "El presidente de EE.UU., Donald Trump, firma una orden para flexibilizar los límites sobre la variedad de diésel para contener los costes",
+   "link": "https://www.fxstreet.es/news/el-presidente-de-eeuu-donald-trump-firma-una-orden-para-flexibilizar-los-limites-sobre-la-variedad-de-diesel-para-contener-los-costes-202610060018",
+   "source": "FXStreet",
+   "published": "2026-10-06T00:18:16+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Australian consumer sentiment slumps after RBA hike as Westpac tips another in November",
+   "link": "https://investinglive.com/news/australian-consumer-sentiment-slumps-after-rba-hike-as-westpac-tips-another-in-november/",
+   "source": "ForexLive",
+   "published": "2026-10-05T23:54:24+00:00",
+   "tags": [
+    "Dólar",
+    "Petróleo",
+    "Bolsa",
+    "Bonos"
+   ],
+   "score": -1
+  },
+  {
+   "title": "El Yen japonés se fortalece tras un discurso del BoJ sobre IA y devuelve todas sus ganancias",
+   "link": "https://www.fxstreet.es/news/el-yen-japones-se-fortalece-tras-un-discurso-del-boj-sobre-ia-y-devuelve-todas-sus-ganancias-202610052330",
+   "source": "FXStreet",
+   "published": "2026-10-05T23:30:10+00:00",
+   "tags": [
+    "Yen"
+   ],
+   "score": 1
+  },
+  {
+   "title": "El Oro se mantiene estable por debajo de 4.150$ en medio de elevados rendimientos de EE.UU.",
+   "link": "https://www.fxstreet.es/news/el-oro-se-mantiene-estable-por-debajo-de-4150-en-medio-de-elevados-rendimientos-de-eeuu-202610052328",
+   "source": "FXStreet",
+   "published": "2026-10-05T23:28:44+00:00",
+   "tags": [
+    "Oro",
+    "Dólar",
+    "Fed",
+    "Bonos"
+   ],
+   "score": 0
+  },
+  {
+   "title": "El Dólar australiano desafía el aumento de los rendimientos mientras el AUD/USD se acerca a 0.70",
+   "link": "https://www.fxstreet.es/news/el-dolar-australiano-desafia-el-aumento-de-los-rendimientos-mientras-el-aud-usd-se-acerca-a-070-202610052318",
+   "source": "FXStreet",
+   "published": "2026-10-05T23:18:58+00:00",
+   "tags": [
+    "Dólar",
+    "Bonos"
+   ],
+   "score": 0
+  },
+  {
+   "title": "El Dólar neozelandés se mantiene cerca de sus mínimos mientras la confianza empresarial se dispara",
+   "link": "https://www.fxstreet.es/news/el-dolar-neozelandes-se-mantiene-cerca-de-sus-minimos-mientras-la-confianza-empresarial-se-dispara-202610052300",
+   "source": "FXStreet",
+   "published": "2026-10-05T23:00:11+00:00",
+   "tags": [
+    "Dólar"
+   ],
+   "score": -1
+  },
+  {
+   "title": "La presión sobre la deuda francesa pone en jaque a los inversores en Europa",
+   "link": "https://www.expansion.com/mercados/renta-fija/2026/10/06/6ac3f841e5fdea63798b4587.html",
+   "source": "Expansión",
+   "published": "2026-10-05T22:57:23+00:00",
+   "tags": [
+    "Euro",
+    "Bonos"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Cuatro valores españoles que bailan al ritmo de Brasil",
+   "link": "https://www.expansion.com/inversion/2026/10/06/6ac3d585468aeb403d8b4596.html",
+   "source": "Expansión",
+   "published": "2026-10-05T22:33:46+00:00",
+   "tags": [
+    "Bolsa"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Los rendimientos del Tesoro de EE.UU. escalan a máximos de varios años mientras regresan los temores de inflación",
+   "link": "https://www.fxstreet.es/news/los-rendimientos-del-tesoro-de-eeuu-escalan-a-maximos-de-varios-anos-mientras-regresan-los-temores-de-inflacion-202610052231",
+   "source": "FXStreet",
+   "published": "2026-10-05T22:31:38+00:00",
+   "tags": [
+    "Bonos"
+   ],
+   "score": 0
+  },
+  {
+   "title": "El Euro alcanza un nuevo mínimo, luego rebota, mientras España convoca elecciones anticipadas",
+   "link": "https://www.fxstreet.es/news/el-euro-alcanza-un-nuevo-minimo-luego-rebota-mientras-espana-convoca-elecciones-anticipadas-202610052228",
+   "source": "FXStreet",
+   "published": "2026-10-05T22:28:36+00:00",
+   "tags": [
+    "Dólar",
+    "Euro"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Un nuevo \"talón de Aquiles\" para los mercados",
+   "link": "https://www.expansion.com/mercados/2026/10/06/6ac39e08e5fdea693f8b459c.html",
+   "source": "Expansión",
+   "published": "2026-10-05T22:27:41+00:00",
+   "tags": [
+    "Euro"
+   ],
+   "score": 0
+  },
+  {
+   "title": "La Libra esterlina se mantiene plana mientras los rendimientos de los bonos del Tesoro suben a otro máximo",
+   "link": "https://www.fxstreet.es/news/la-libra-esterlina-se-mantiene-plana-mientras-los-rendimientos-de-los-bonos-del-tesoro-suben-a-otro-maximo-202610052226",
+   "source": "FXStreet",
+   "published": "2026-10-05T22:26:43+00:00",
+   "tags": [
+    "Dólar",
+    "Libra",
+    "Fed",
+    "Bonos"
+   ],
+   "score": 2
+  },
+  {
+   "title": "NZ business confidence jumps to a net 40% in September quarter despite oil price headwinds",
+   "link": "https://investinglive.com/news/nz-business-confidence-jumps-to-a-net-40-in-september-quarter-despite-oil-price-headwinds/",
+   "source": "ForexLive",
+   "published": "2026-10-05T21:07:51+00:00",
+   "tags": [
+    "Petróleo"
+   ],
+   "score": 1
+  },
+  {
+   "title": "El Peso mexicano amplía su racha ganadora mientras el USD/MXN deriva hacia 18.00",
+   "link": "https://www.fxstreet.es/news/el-peso-mexicano-amplia-su-racha-ganadora-mientras-el-usd-mxn-deriva-hacia-1800-202610052101",
+   "source": "FXStreet",
+   "published": "2026-10-05T21:01:19+00:00",
+   "tags": [
+    "Dólar"
+   ],
+   "score": 1
+  },
+  {
+   "title": "investingLive Americas FX news wrap 5 Oct: Nasdaq close at record as the dollar firms/yields higher",
+   "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-5-oct-nasdaq-close-at-record-as-the-dollar-firms-oil-falls/",
+   "source": "ForexLive",
+   "published": "2026-10-05T20:53:44+00:00",
+   "tags": [
+    "Dólar",
+    "Petróleo",
+    "Bolsa",
+    "Bonos"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Precio del Dólar en Colombia 5 de octubre: El Peso colombiano sube a máximos de semana y media",
+   "link": "https://www.fxstreet.es/news/precio-del-dolar-en-colombia-5-de-octubre-el-peso-colombiano-sube-a-maximos-de-semana-y-media-202610052012",
+   "source": "FXStreet",
+   "published": "2026-10-05T20:12:32+00:00",
+   "tags": [
+    "Dólar"
+   ],
+   "score": 2
+  },
+  {
+   "title": "Economic and event calendar in Asia Tuesday, October 6, 2026",
+   "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-october-6-2026/",
+   "source": "ForexLive",
+   "published": "2026-10-05T20:08:50+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Dólar de Singapur: Se prevé que el MAS endurezca muy ligeramente – Standard Chartered",
+   "link": "https://www.fxstreet.es/news/dolar-de-singapur-se-preve-que-el-mas-endurezca-muy-ligeramente-standard-chartered-202610051949",
+   "source": "FXStreet",
+   "published": "2026-10-05T19:49:10+00:00",
+   "tags": [
+    "Dólar"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Análisis de la Plata: El XAG/USD construye una base por encima de 60$, apunta a 64$",
+   "link": "https://www.fxstreet.es/news/plata-analisis-del-precio-xag-usd-construye-una-base-por-encima-de-60-apunta-a-64-202610051923",
+   "source": "FXStreet",
+   "published": "2026-10-05T19:23:37+00:00",
+   "tags": [
+    "Dólar"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Yuan chino: Opera lateral con un ligero sesgo alcista frente al Dólar estadounidense - UOB",
+   "link": "https://www.fxstreet.es/news/yuan-chino-lateral-con-sesgo-alcista-frente-al-dolar-estadounidense-uob-202610051908",
+   "source": "FXStreet",
+   "published": "2026-10-05T19:08:48+00:00",
+   "tags": [
+    "Dólar"
+   ],
+   "score": 0
+  },
+  {
+   "title": "El Oro se estanca por debajo de 4.150$ mientras el aumento de los rendimientos de EE.UU. contrarresta el alivio de la Fed",
+   "link": "https://www.fxstreet.es/news/el-oro-se-estanca-por-debajo-de-4150-mientras-el-aumento-de-los-rendimientos-de-eeuu-contrarresta-el-alivio-de-la-fed-202610051859",
+   "source": "FXStreet",
+   "published": "2026-10-05T18:59:45+00:00",
+   "tags": [
+    "Oro",
+    "Dólar",
+    "Fed",
+    "Bonos"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Tres elecciones que pueden mover el Ibex más que las españolas",
+   "link": "https://www.expansion.com/mercados/2026/10/05/6ac3c6ac468aeb4a448b4583.html",
+   "source": "Expansión",
+   "published": "2026-10-05T18:45:38+00:00",
+   "tags": [
+    "Bolsa"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Los mercados acaban de descontar subidas de tasas: Este gráfico muestra por qué 2022-23 dice que se equivocarán",
+   "link": "https://www.fxstreet.es/news/los-mercados-acaban-de-descontar-subidas-de-tasas-por-el-estres-financiero-este-grafico-muestra-por-que-2022-23-dice-que-se-equivocaran-202610051843",
+   "source": "FXStreet",
+   "published": "2026-10-05T18:43:59+00:00",
+   "tags": [
+    "Euro",
+    "BCE"
+   ],
+   "score": 1
+  },
+  {
+   "title": "USD/MXN: El Peso mexicano firma su segunda jornada consecutiva con ganancias, el foco gira ahora a la Fed",
+   "link": "https://www.fxstreet.es/news/usd-mxn-el-peso-mexicano-firma-su-segunda-jornada-consecutiva-con-ganancias-el-foco-gira-ahora-a-la-fed-202610051838",
+   "source": "FXStreet",
+   "published": "2026-10-05T18:38:16+00:00",
+   "tags": [
+    "Dólar",
+    "Fed"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Cada vez hay menos argumentos para la ampliación de Heathrow",
+   "link": "https://www.expansion.com/economia/financial-times/2026/10/05/6ac3ee01e5fdea8e758b4587.html",
+   "source": "Expansión",
+   "published": "2026-10-05T18:36:04+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "El Yen japonés se debilita mientras la amplia brecha de rendimientos apoya al Dólar estadounidense",
+   "link": "https://www.fxstreet.es/news/el-yen-japones-se-debilita-mientras-la-amplia-brecha-de-rendimientos-apoya-al-dolar-estadounidense-202610051826",
+   "source": "FXStreet",
+   "published": "2026-10-05T18:26:34+00:00",
+   "tags": [
+    "Dólar",
+    "Yen"
+   ],
+   "score": -1
+  },
+  {
+   "title": "Forex Hoy: Los datos PMI de Europa y los discursos de miembros de la Fed serán los protagonistas",
+   "link": "https://www.fxstreet.es/news/forex-hoy-los-datos-pmi-de-europa-y-los-discursos-de-miembros-de-la-fed-seran-los-protagonistas-202610051824",
+   "source": "FXStreet",
+   "published": "2026-10-05T18:24:18+00:00",
+   "tags": [
+    "Dólar",
+    "Euro",
+    "Fed"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Estados Unidos: Un impulso a la producción nacional de tierras raras – ING",
+   "link": "https://www.fxstreet.es/news/estados-unidos-impulso-a-la-produccion-nacional-de-tierras-raras-ing-202610051819",
+   "source": "FXStreet",
+   "published": "2026-10-05T18:19:05+00:00",
+   "tags": [
+    "Fed"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Los valores del Ibex más alcistas por el 'efecto Brasil'",
+   "link": "https://www.expansion.com/mercados/2026/10/05/6ac36942e5fdeaf20b8b4584.html",
+   "source": "Expansión",
+   "published": "2026-10-05T16:37:37+00:00",
    "tags": [
     "Euro",
     "Bolsa"
@@ -13,14 +370,153 @@
    "score": 0
   },
   {
-   "title": "Dólar australiano: Caída limitada frente al Dólar estadounidense – UOB",
-   "link": "https://www.fxstreet.es/news/dolar-australiano-caida-limitada-frente-al-dolar-estadounidense-uob-202610051143",
+   "title": "La Libra esterlina cae mientras el shock fiscal de Francia impulsa al Dólar estadounidense",
+   "link": "https://www.fxstreet.es/news/la-libra-esterlina-cae-mientras-el-shock-fiscal-de-francia-impulsa-al-dolar-estadounidense-202610051636",
    "source": "FXStreet",
-   "published": "2026-10-05T11:43:33+00:00",
+   "published": "2026-10-05T16:36:30+00:00",
+   "tags": [
+    "Dólar",
+    "Libra",
+    "Bonos"
+   ],
+   "score": -1
+  },
+  {
+   "title": "Los hedge fund cuantitativos obtienen grandes ganancias con las ventas de bonos a nivel mundial",
+   "link": "https://www.expansion.com/economia/financial-times/2026/10/05/6ac3ccbee5fdea9b268b4578.html",
+   "source": "Expansión",
+   "published": "2026-10-05T16:15:13+00:00",
+   "tags": [
+    "Bonos"
+   ],
+   "score": 1
+  },
+  {
+   "title": "El valor de la Bolsa española más sensible a la política se dispara un 14%",
+   "link": "https://www.expansion.com/mercados/2026/10/05/6ac35a08468aeb3f2b8b4575.html",
+   "source": "Expansión",
+   "published": "2026-10-05T16:14:28+00:00",
+   "tags": [
+    "Bolsa"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Pronóstico del precio del EUR/CHF: La SMA de 100 días limita la caída inmediata",
+   "link": "https://www.fxstreet.es/news/prevision-del-precio-del-eur-chf-la-sma-de-100-dias-limita-la-caida-inmediata-202610051611",
+   "source": "FXStreet",
+   "published": "2026-10-05T16:11:36+00:00",
+   "tags": [
+    "Euro"
+   ],
+   "score": -1
+  },
+  {
+   "title": "El Dólar australiano avanza ligeramente mientras el Dólar estadounidense y los rendimientos limitan las ganancias",
+   "link": "https://www.fxstreet.es/news/el-dolar-australiano-avanza-ligeramente-aunque-los-solidos-servicios-de-eeuu-y-un-dolar-firme-limitan-las-ganancias-202610051606",
+   "source": "FXStreet",
+   "published": "2026-10-05T16:06:56+00:00",
+   "tags": [
+    "Dólar",
+    "Euro"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Precio del Dólar en Chile hoy: El Peso chileno retoma la senda ganadora tras datos económicos mixtos de EE.UU.",
+   "link": "https://www.fxstreet.es/news/precio-del-dolar-en-chile-hoy-el-peso-chileno-retoma-la-senda-ganadora-tras-datos-economicos-mixtos-de-eeuu-202610051556",
+   "source": "FXStreet",
+   "published": "2026-10-05T15:56:06+00:00",
+   "tags": [
+    "Dólar"
+   ],
+   "score": 1
+  },
+  {
+   "title": "El Índice del Dólar alcanza un máximo de 18 meses ante el temor por la deuda francesa",
+   "link": "https://www.fxstreet.es/news/el-indice-del-dolar-alcanza-un-maximo-de-18-meses-ante-el-temor-por-la-deuda-francesa-202610051542",
+   "source": "FXStreet",
+   "published": "2026-10-05T15:42:14+00:00",
+   "tags": [
+    "Dólar"
+   ],
+   "score": 0
+  },
+  {
+   "title": "El Dólar canadiense atrae nuevas compras tras tocar mínimos de varios meses",
+   "link": "https://www.fxstreet.es/news/el-dolar-canadiense-atrae-nuevas-compras-tras-tocar-minimos-de-varios-meses-202610051526",
+   "source": "FXStreet",
+   "published": "2026-10-05T15:26:45+00:00",
    "tags": [
     "Dólar"
    ],
    "score": -1
+  },
+  {
+   "title": "Won surcoreano: Exportaciones sólidas y apoyo de política KRW – Commerzbank",
+   "link": "https://www.fxstreet.es/news/won-surcoreano-exportaciones-solidas-y-apoyo-de-politica-krw-commerzbank-202610051525",
+   "source": "FXStreet",
+   "published": "2026-10-05T15:25:12+00:00",
+   "tags": [
+    "Dólar"
+   ],
+   "score": 0
+  },
+  {
+   "title": "El dólar canadiense cede terreno ante la caída del petróleo",
+   "link": "https://es.investing.com/news/forex-news/el-dolar-canadiense-cede-terreno-ante-la-caida-del-petroleo-3861294",
+   "source": "Investing.com",
+   "published": "2026-10-05T14:30:09+00:00",
+   "tags": [
+    "Dólar",
+    "Petróleo"
+   ],
+   "score": -1
+  },
+  {
+   "title": "ISM non- manufacturing PMI 54.9 versus 55.2 estimate",
+   "link": "https://investinglive.com/news/ism-non-manufacturing-pmi-54-9-versus-55-2-estimate/",
+   "source": "ForexLive",
+   "published": "2026-10-05T14:04:17+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "S&P global composite PMI for September 58.4 versus 58.4 preliminary",
+   "link": "https://investinglive.com/news/s-p-global-composite-pmi-for-september-58-4-versus-58-4-preliminary/",
+   "source": "ForexLive",
+   "published": "2026-10-05T13:49:12+00:00",
+   "tags": [
+    "Bolsa"
+   ],
+   "score": 0
+  },
+  {
+   "title": "El Ibex, condicionado por el euro, la deuda y la política",
+   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/05/6ac33c2f468aeb7e468b4590.html",
+   "source": "Expansión",
+   "published": "2026-10-05T12:48:07+00:00",
+   "tags": [
+    "Euro",
+    "Bolsa"
+   ],
+   "score": 0
+  },
+  {
+   "title": "investingLive European session wrap: Dollar firms as yields stay elevated, French risks weigh on euro",
+   "link": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-firms-as-yields-stay-elevated-french-risks-weigh-on-euro/",
+   "source": "ForexLive",
+   "published": "2026-10-05T12:20:58+00:00",
+   "tags": [
+    "Oro",
+    "Dólar",
+    "Euro",
+    "Petróleo",
+    "Bolsa",
+    "Cripto",
+    "Bonos"
+   ],
+   "score": 0
   },
   {
    "title": "Las fuerzas del gobierno yemení avanzan hacia el estrecho de Bab el-Mandeb",
@@ -31,36 +527,11 @@
    "score": 0
   },
   {
-   "title": "La Libra esterlina recupera parte de las pérdidas frente al Dólar estadounidense, foco en el PMI de servicios del ISM",
-   "link": "https://www.fxstreet.es/news/la-libra-esterlina-recupera-parte-de-las-perdidas-frente-al-dolar-estadounidense-foco-en-el-pmi-de-servicios-del-ism-202610051130",
-   "source": "FXStreet",
-   "published": "2026-10-05T11:30:07+00:00",
-   "tags": [
-    "Dólar",
-    "Euro",
-    "Libra"
-   ],
-   "score": -1
-  },
-  {
    "title": "Euríbor hoy, 05 de octubre: El Euríbor se desinfla y alegra a los hipotecados",
    "link": "https://www.expansion.com/mercados/euribor/2026/10/05/6ac38465468aeb3a408b458a.html",
    "source": "Expansión",
    "published": "2026-10-05T11:05:11+00:00",
    "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Euro: presionado, pero el riesgo sistémico está contenido – DBS",
-   "link": "https://www.fxstreet.es/news/euro-presionado-pero-el-riesgo-sistemico-esta-contenido-dbs-202610051104",
-   "source": "FXStreet",
-   "published": "2026-10-05T11:04:50+00:00",
-   "tags": [
-    "Dólar",
-    "Euro",
-    "Fed",
-    "BCE"
-   ],
    "score": 0
   },
   {
@@ -72,60 +543,13 @@
    "score": 0
   },
   {
-   "title": "Los valores del Ibex más alcistas por el 'efecto Brasil'",
-   "link": "https://www.expansion.com/mercados/2026/10/05/6ac36942e5fdeaf20b8b4584.html",
-   "source": "Expansión",
-   "published": "2026-10-05T10:59:07+00:00",
-   "tags": [
-    "Euro",
-    "Bolsa"
-   ],
-   "score": 0
-  },
-  {
-   "title": "La Plata se acerca a 61.80$ a medida que disminuyen las expectativas de línea dura de la Fed",
-   "link": "https://www.fxstreet.es/news/plata-analisis-del-precio-el-xag-usd-salta-y-se-acerca-a-6180-a-medida-que-disminuyen-las-expectativas-de-linea-dura-de-la-fed-202610051058",
-   "source": "FXStreet",
-   "published": "2026-10-05T10:58:39+00:00",
-   "tags": [
-    "Dólar",
-    "Euro",
-    "Fed"
-   ],
-   "score": 0
-  },
-  {
-   "title": "USD/CHF Previsión del Precio: Se mantiene por debajo de 0.8320 mientras el franco suizo resiste la venta masiva de bonos",
-   "link": "https://www.fxstreet.es/news/usd-chf-prevision-del-precio-se-mantiene-por-debajo-de-08320-mientras-el-franco-suizo-resiste-la-venta-masiva-de-bonos-202610051051",
-   "source": "FXStreet",
-   "published": "2026-10-05T10:51:33+00:00",
-   "tags": [
-    "Dólar",
-    "Bonos"
-   ],
-   "score": 0
-  },
-  {
-   "title": "El Oro es presionado mientras una revisión moderada de la Fed coincide con un Dólar estadounidense más fuerte",
+   "title": "El Oro cotiza plano ante la fortaleza del Dólar estadounidense que compensa el alivio en las expectativas de subidas de tasas",
    "link": "https://www.fxstreet.es/news/el-oro-se-ve-presionado-mientras-una-revision-moderada-de-la-fed-coincide-con-un-dolar-estadounidense-mas-fuerte-y-rendimientos-elevados-202610051051",
    "source": "FXStreet",
    "published": "2026-10-05T10:51:03+00:00",
    "tags": [
     "Oro",
-    "Dólar",
-    "Fed"
-   ],
-   "score": 1
-  },
-  {
-   "title": "¿Por qué está subiendo el Dólar estadounidense pese a que se desvanecen las probabilidades de una subida de la Fed en octubre?",
-   "link": "https://www.fxstreet.es/news/por-que-esta-subiendo-el-dolar-estadounidense-pese-a-que-se-desvanecen-las-probabilidades-de-una-subida-de-la-fed-en-octubre-202610051037",
-   "source": "FXStreet",
-   "published": "2026-10-05T10:37:36+00:00",
-   "tags": [
-    "Dólar",
-    "Euro",
-    "Fed"
+    "Dólar"
    ],
    "score": 1
   },
@@ -148,17 +572,6 @@
    "score": 0
   },
   {
-   "title": "Real brasileño: La sorpresa electoral apoya al BRL frente al Dólar estadounidense – ING",
-   "link": "https://www.fxstreet.es/news/real-brasileno-la-sorpresa-electoral-apoya-al-brl-frente-al-dolar-estadounidense-ing-202610051002",
-   "source": "FXStreet",
-   "published": "2026-10-05T10:02:55+00:00",
-   "tags": [
-    "Dólar",
-    "Bonos"
-   ],
-   "score": 0
-  },
-  {
    "title": "Barclays roza la valoración récord de Repsol",
    "link": "https://www.expansion.com/mercados/2026/10/05/6ac3495ae5fdea02508b457d.html",
    "source": "Expansión",
@@ -169,109 +582,12 @@
    "score": 1
   },
   {
-   "title": "Dólar estadounidense: soporte impulsado por la volatilidad hasta finales de año – OCBC",
-   "link": "https://www.fxstreet.es/news/dolar-estadounidense-soporte-impulsado-por-la-volatilidad-hasta-finales-de-ano-ocbc-202610050952",
-   "source": "FXStreet",
-   "published": "2026-10-05T09:52:32+00:00",
-   "tags": [
-    "Dólar",
-    "Fed"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Oro Pronóstico del Precio: El XAU/USD languidece por debajo de 4.200$ ante los elevados rendimientos de EE.UU.",
-   "link": "https://www.fxstreet.es/news/oro-pronostico-del-precio-el-xau-usd-languidece-por-debajo-de-4200-ante-los-elevados-rendimientos-de-eeuu-202610050951",
-   "source": "FXStreet",
-   "published": "2026-10-05T09:51:25+00:00",
-   "tags": [
-    "Oro",
-    "Dólar"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Franco suizo: Se espera un rango estrecho frente al Dólar estadounidense - UOB",
-   "link": "https://www.fxstreet.es/news/franco-suizo-se-espera-un-rango-estrecho-frente-al-dolar-estadounidense-uob-202610050944",
-   "source": "FXStreet",
-   "published": "2026-10-05T09:44:05+00:00",
-   "tags": [
-    "Dólar"
-   ],
-   "score": 0
-  },
-  {
    "title": "¿Puede el Reino Unido crecer sin empeorar sus finanzas públicas?",
    "link": "https://es.investing.com/news/economy-news/puede-el-reino-unido-crecer-sin-empeorar-sus-finanzas-publicas-3860260",
    "source": "Investing.com",
    "published": "2026-10-05T09:35:51+00:00",
    "tags": [],
    "score": 0
-  },
-  {
-   "title": "Divisas de Europa Central y Oriental: Mantenimientos de línea dura y senda de flexibilización cautelosa – Societe Generale",
-   "link": "https://www.fxstreet.es/news/divisas-de-europa-central-y-oriental-mantenimientos-de-linea-dura-y-senda-de-flexibilizacion-cautelosa-societe-generale-202610050932",
-   "source": "FXStreet",
-   "published": "2026-10-05T09:32:50+00:00",
-   "tags": [
-    "Euro"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Precio de la Plata hoy: La Plata sube, según datos de FXStreet",
-   "link": "https://www.fxstreet.es/news/precio-de-la-plata-hoy-la-plata-sube-segun-datos-de-fxstreet-202610050930",
-   "source": "FXStreet",
-   "published": "2026-10-05T09:30:33+00:00",
-   "tags": [
-    "Dólar"
-   ],
-   "score": 1
-  },
-  {
-   "title": "Previsión del precio del Índice del Dólar: retrocede desde máximos de casi 18 meses en torno a 102.50",
-   "link": "https://www.fxstreet.es/news/prevision-del-precio-del-indice-del-dolar-retrocede-desde-maximos-de-casi-18-meses-en-torno-a-10250-202610050924",
-   "source": "FXStreet",
-   "published": "2026-10-05T09:24:06+00:00",
-   "tags": [
-    "Dólar",
-    "Euro"
-   ],
-   "score": 0
-  },
-  {
-   "title": "BCE: No hay señales claras de que la inflación se haya trasladado a los precios y salarios – Joachim Nagel",
-   "link": "https://www.fxstreet.es/news/bce-no-hay-senales-claras-de-que-la-inflacion-se-haya-trasladado-a-la-fijacion-de-precios-y-salarios-joachim-nagel-202610050913",
-   "source": "FXStreet",
-   "published": "2026-10-05T09:13:07+00:00",
-   "tags": [
-    "Euro",
-    "BCE"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Pronóstico del Precio del USD/JPY: Se consolida por debajo de 158.00 mientras persiste el sesgo alcista",
-   "link": "https://www.fxstreet.es/news/pronostico-del-precio-del-usd-jpy-se-consolida-por-debajo-de-15800-mientras-persiste-el-sesgo-alcista-202610050910",
-   "source": "FXStreet",
-   "published": "2026-10-05T09:10:11+00:00",
-   "tags": [
-    "Dólar",
-    "Euro",
-    "Yen"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Euro: Los riesgos fiscales limitan las subidas frente a la Libra esterlina – Rabobank",
-   "link": "https://www.fxstreet.es/news/euro-los-riesgos-fiscales-limitan-las-subidas-frente-a-la-libra-esterlina-rabobank-202610050909",
-   "source": "FXStreet",
-   "published": "2026-10-05T09:09:13+00:00",
-   "tags": [
-    "Euro",
-    "Libra"
-   ],
-   "score": 1
   },
   {
    "title": "Goldman Sachs prevé ganancias del real brasileño tras elecciones",
@@ -292,30 +608,12 @@
    "score": 0
   },
   {
-   "title": "Se espera que el PMI de servicios del ISM muestre una economía estadounidense sólida en septiembre",
-   "link": "https://www.fxstreet.es/news/se-espera-que-el-pmi-de-servicios-del-ism-muestre-la-solidez-de-la-economia-estadounidense-en-septiembre-202610050900",
-   "source": "FXStreet",
-   "published": "2026-10-05T09:00:13+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "Eurozone Sentix confidence falls in October as recovery optimism starts to fade",
    "link": "https://investinglive.com/news/eurozone-sentix-confidence-falls-in-october-as-recovery-optimism-starts-to-fade/",
    "source": "ForexLive",
    "published": "2026-10-05T08:53:40+00:00",
    "tags": [
     "Euro"
-   ],
-   "score": 0
-  },
-  {
-   "title": "El valor de la Bolsa española más sensible a la política se dispara",
-   "link": "https://www.expansion.com/mercados/2026/10/05/6ac35a08468aeb3f2b8b4575.html",
-   "source": "Expansión",
-   "published": "2026-10-05T08:53:40+00:00",
-   "tags": [
-    "Bolsa"
    ],
    "score": 0
   },
@@ -330,42 +628,6 @@
    "score": 2
   },
   {
-   "title": "El Euro intenta recuperar el nivel de 1.1200 tras los datos mixtos de actividad del sector Servicios",
-   "link": "https://www.fxstreet.es/news/el-euro-intenta-recuperar-el-nivel-de-11200-tras-los-datos-mixtos-de-actividad-del-sector-servicios-202610050846",
-   "source": "FXStreet",
-   "published": "2026-10-05T08:46:28+00:00",
-   "tags": [
-    "Dólar",
-    "Euro"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Dólar estadounidense: Mantiene las ganancias mientras las expectativas sobre la Fed siguen firmes – ING",
-   "link": "https://www.fxstreet.es/news/dolar-estadounidense-mantiene-las-ganancias-mientras-las-expectativas-sobre-la-fed-siguen-firmes-ing-202610050842",
-   "source": "FXStreet",
-   "published": "2026-10-05T08:42:00+00:00",
-   "tags": [
-    "Dólar",
-    "Euro",
-    "Fed",
-    "BCE"
-   ],
-   "score": 1
-  },
-  {
-   "title": "El Dólar australiano se recupera pese a las ganancias del Yen; Japón se compromete con la prudencia fiscal",
-   "link": "https://www.fxstreet.es/news/el-dolar-australiano-se-recupera-pese-a-las-ganancias-del-yen-japon-se-compromete-con-la-prudencia-fiscal-202610050836",
-   "source": "FXStreet",
-   "published": "2026-10-05T08:36:43+00:00",
-   "tags": [
-    "Dólar",
-    "Euro",
-    "Yen"
-   ],
-   "score": 1
-  },
-  {
    "title": "La libra cede terreno mientras la venta del euro impulsa al dólar",
    "link": "https://es.investing.com/news/forex-news/la-libra-cede-terreno-mientras-la-venta-del-euro-impulsa-al-dolar-3860095",
    "source": "Investing.com",
@@ -378,45 +640,12 @@
    "score": 0
   },
   {
-   "title": "Pronóstico del Precio del EUR/GBP: Los bajistas esperan una ruptura por debajo de 0.8450, mínimo anual, en medio de la crisis de la deuda francesa",
-   "link": "https://www.fxstreet.es/news/pronostico-del-precio-del-eur-gbp-los-bajistas-esperan-una-ruptura-por-debajo-de-08450-minimo-anual-en-medio-de-la-crisis-de-la-deuda-francesa-202610050832",
-   "source": "FXStreet",
-   "published": "2026-10-05T08:32:20+00:00",
-   "tags": [
-    "Euro",
-    "Libra"
-   ],
-   "score": -1
-  },
-  {
-   "title": "La confianza de los inversores Sentix de la Eurozona cae hasta 2.7 en octubre",
-   "link": "https://www.fxstreet.es/news/la-confianza-de-los-inversores-sentix-de-la-eurozona-cae-hasta-27-en-octubre-202610050831",
-   "source": "FXStreet",
-   "published": "2026-10-05T08:31:54+00:00",
-   "tags": [
-    "Euro"
-   ],
-   "score": -1
-  },
-  {
    "title": "UK September final services PMI 52.1 vs 51.7 prelim",
    "link": "https://investinglive.com/news/uk-september-final-services-pmi-52-1-vs-51-7-prelim/",
    "source": "ForexLive",
    "published": "2026-10-05T08:31:20+00:00",
    "tags": [],
    "score": 0
-  },
-  {
-   "title": "Los futuros del Dow Jones caen mientras las tensiones en Oriente Medio contrarrestan las esperanzas de recorte de tasas por parte de la Fed",
-   "link": "https://www.fxstreet.es/news/los-futuros-del-dow-jones-caen-mientras-las-tensiones-en-oriente-medio-contrarrestan-las-esperanzas-de-recorte-de-tasas-por-parte-de-la-fed-202610050830",
-   "source": "FXStreet",
-   "published": "2026-10-05T08:30:25+00:00",
-   "tags": [
-    "Euro",
-    "Fed",
-    "Bolsa"
-   ],
-   "score": -1
   },
   {
    "title": "El precio del Bitcoin hoy, 5 de octubre: el Bitcoin asciende de los 87.000 dólares",
@@ -428,51 +657,6 @@
     "Cripto"
    ],
    "score": 0
-  },
-  {
-   "title": "Yen japonés: El amplio rango se mantiene pese al débil impulso frente al Dólar estadounidense – UOB",
-   "link": "https://www.fxstreet.es/news/yen-japones-el-amplio-rango-se-mantiene-pese-al-debil-impulso-frente-al-dolar-estadounidense-uob-202610050812",
-   "source": "FXStreet",
-   "published": "2026-10-05T08:12:16+00:00",
-   "tags": [
-    "Dólar",
-    "Yen"
-   ],
-   "score": -1
-  },
-  {
-   "title": "El Euro pierde frente al Dólar canadiense mientras Lane, del BCE, advierte de los riesgos para el crecimiento económico",
-   "link": "https://www.fxstreet.es/news/el-euro-pierde-frente-al-dolar-canadiense-mientras-lane-del-bce-advierte-de-los-riesgos-para-el-crecimiento-economico-202610050811",
-   "source": "FXStreet",
-   "published": "2026-10-05T08:11:28+00:00",
-   "tags": [
-    "Dólar",
-    "Euro",
-    "BCE"
-   ],
-   "score": -1
-  },
-  {
-   "title": "BCE: El aumento de las tasas a largo plazo ralentizará el crecimiento – Philip Lane",
-   "link": "https://www.fxstreet.es/news/bce-el-aumento-de-las-tasas-a-largo-plazo-ralentizara-el-crecimiento-philip-lane-202610050806",
-   "source": "FXStreet",
-   "published": "2026-10-05T08:06:16+00:00",
-   "tags": [
-    "Euro",
-    "BCE"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Forex Hoy: La venta del Euro gana impulso, el Dólar estadounidense ignora la moderación de las expectativas de subida de tasas",
-   "link": "https://www.fxstreet.es/news/forex-hoy-la-venta-del-euro-gana-impulso-el-dolar-estadounidense-ignora-la-moderacion-de-las-expectativas-de-subida-de-tasas-202610050806",
-   "source": "FXStreet",
-   "published": "2026-10-05T08:06:11+00:00",
-   "tags": [
-    "Dólar",
-    "Euro"
-   ],
-   "score": 2
   },
   {
    "title": "Ahora mismo soy más optimista respecto a las acciones que hace un año",
@@ -511,12 +695,14 @@
    "score": -1
   },
   {
-   "title": "Los rendimientos de la deuda francesa suben ante el aumento de la preocupación fiscal",
+   "title": "Los bonos del Tesoro de EE.UU. hacen pausa; la deuda francesa retrocede tras el shock",
    "link": "https://es.investing.com/news/forex-news/los-rendimientos-de-la-deuda-francesa-suben-ante-el-aumento-de-la-preocupacion-fiscal-3859996",
    "source": "Investing.com",
    "published": "2026-10-05T07:30:03+00:00",
-   "tags": [],
-   "score": 1
+   "tags": [
+    "Bonos"
+   ],
+   "score": -1
   },
   {
    "title": "What are the main events for today?",
@@ -534,16 +720,6 @@
    "source": "Expansión",
    "published": "2026-10-05T05:47:50+00:00",
    "tags": [],
-   "score": 0
-  },
-  {
-   "title": "La rupia india avanza ligeramente al inicio de la semana de política monetaria del RBI",
-   "link": "https://www.fxstreet.es/news/la-rupia-india-sube-al-inicio-de-la-semana-de-politica-monetaria-del-rbi-202610050540",
-   "source": "FXStreet",
-   "published": "2026-10-05T05:40:40+00:00",
-   "tags": [
-    "Dólar"
-   ],
    "score": 0
   },
   {
@@ -565,20 +741,6 @@
     "Euro"
    ],
    "score": -2
-  },
-  {
-   "title": "El Oro se aferra a las ganancias mientras el retroceso de la subida de tipos de la Fed y los débiles rendimientos de los bonos estadounidenses contrarrestan al Dólar fuerte",
-   "link": "https://www.fxstreet.es/news/los-alcistas-del-oro-se-mantienen-al-margen-mientras-el-usd-sube-a-un-nuevo-maximo-anual-202610050443",
-   "source": "FXStreet",
-   "published": "2026-10-05T04:43:39+00:00",
-   "tags": [
-    "Oro",
-    "Dólar",
-    "Euro",
-    "Fed",
-    "Bonos"
-   ],
-   "score": 2
   },
   {
    "title": "investingLive Asia-Pacific market news: Dollar firms, oil edges lower",
@@ -695,14 +857,6 @@
    "link": "https://es.investing.com/news/economy-news/el-primer-ministro-de-japon-protesta-ante-eeuu-tras-arresto-de-marine-en-okinawa-3859764",
    "source": "Investing.com",
    "published": "2026-10-04T08:04:10+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Legisladores británicos advierten sobre el riesgo estratégico de depender de gigantes cloud de EE.UU.",
-   "link": "https://es.investing.com/news/economy-news/legisladores-britanicos-advierten-sobre-el-riesgo-estrategico-de-depender-de-gigantes-cloud-de-eeuu-3859761",
-   "source": "Investing.com",
-   "published": "2026-10-04T07:23:27+00:00",
    "tags": [],
    "score": 0
   },
@@ -834,38 +988,6 @@
    "score": 1
   },
   {
-   "title": "US September non-farm payrolls +29K vs +90K expected",
-   "link": "https://investinglive.com/news/us-september-non-farm-payrolls-29k-vs-90k-expected/",
-   "source": "ForexLive",
-   "published": "2026-10-02T12:30:09+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "investingLive European session wrap: Stocks advance as bond yields ease ahead of NFP",
-   "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-advance-as-bond-yields-ease-ahead-of-nfp/",
-   "source": "ForexLive",
-   "published": "2026-10-02T12:18:52+00:00",
-   "tags": [
-    "Euro",
-    "BCE",
-    "Bolsa",
-    "Bonos"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Locked and loaded for the September non-farm payrolls report",
-   "link": "https://investinglive.com/news/locked-and-loaded-for-the-september-non-farm-payrolls-report/",
-   "source": "ForexLive",
-   "published": "2026-10-02T12:16:14+00:00",
-   "tags": [
-    "Fed",
-    "Bolsa"
-   ],
-   "score": 0
-  },
-  {
    "title": "Euríbor hoy, 02 de octubre: El Euríbor cierra la semana con una fuerte subida",
    "link": "https://www.expansion.com/mercados/euribor/2026/10/05/6ac38465468aeb3a408b458a.html",
    "source": "Expansión",
@@ -916,16 +1038,6 @@
    "score": 0
   },
   {
-   "title": "Eurozone inflation jumps to 3.8% in September as energy prices surge",
-   "link": "https://investinglive.com/news/eurozone-inflation-jumps-to-3-8-in-september-as-energy-prices-surge/",
-   "source": "ForexLive",
-   "published": "2026-10-02T09:00:23+00:00",
-   "tags": [
-    "Euro"
-   ],
-   "score": 2
-  },
-  {
    "title": "Así es MdF Family Partners, el 'family office' al que quieren parecerse los bancos",
    "link": "https://www.expansion.com/mercados/fondos/2026/10/02/6abe6289e5fdea962e8b4577.html",
    "source": "Expansión",
@@ -944,54 +1056,12 @@
    "score": 0
   },
   {
-   "title": "El rendimiento del bono estadounidense a 10 años cae tras el dato de empleo de septiembre",
-   "link": "https://es.investing.com/news/forex-news/la-deuda-francesa-camino-de-su-quinta-subida-semanal-en-maximos-de-2002-3858441",
-   "source": "Investing.com",
-   "published": "2026-10-02T07:42:51+00:00",
-   "tags": [
-    "Bonos"
-   ],
-   "score": -1
-  },
-  {
-   "title": "What is the distribution of forecasts for the US NFP?",
-   "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-1/",
-   "source": "ForexLive",
-   "published": "2026-10-02T07:00:29+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "¿Qué nos depararán los mercados en 2027?",
    "link": "https://www.expansion.com/encuentros/rui-mota-guedes/2026/10/02/index.html",
    "source": "Expansión",
    "published": "2026-10-02T05:55:56+00:00",
    "tags": [
     "Bolsa"
-   ],
-   "score": 0
-  },
-  {
-   "title": "US jobs report faces a higher bar as bond market tensions raise the stakes",
-   "link": "https://investinglive.com/news/us-jobs-report-faces-a-higher-bar-as-bond-market-tensions-raise-the-stakes/",
-   "source": "ForexLive",
-   "published": "2026-10-02T04:41:15+00:00",
-   "tags": [
-    "Bonos"
-   ],
-   "score": 1
-  },
-  {
-   "title": "investingLive Asia-Pacific market news: Markets mark time before payrolls",
-   "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-markets-mark-time-before-payrolls/",
-   "source": "ForexLive",
-   "published": "2026-10-02T03:42:06+00:00",
-   "tags": [
-    "Dólar",
-    "Yen",
-    "Fed",
-    "Cripto",
-    "Bonos"
    ],
    "score": 0
   },
@@ -1087,81 +1157,8 @@
     "Bolsa"
    ],
    "score": 1
-  },
-  {
-   "title": "La venta global de deuda dispara el rendimiento del bono a 10 años del Tesoro de EEUU a máximos de 2002",
-   "link": "https://www.expansion.com/economia/financial-times/2026/10/01/6abe18ade5fdeadb0a8b45a1.html",
-   "source": "Expansión",
-   "published": "2026-10-01T08:28:19+00:00",
-   "tags": [
-    "Bonos"
-   ],
-   "score": 1
-  },
-  {
-   "title": "Bill Gross recomienda no tener bonos en cartera y ser cauteloso con las acciones",
-   "link": "https://www.expansion.com/mercados/2026/10/01/6abe1744468aeb9d698b4590.html",
-   "source": "Expansión",
-   "published": "2026-10-01T08:18:19+00:00",
-   "tags": [
-    "Bolsa",
-    "Bonos"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Robinhood ofrece un agente de IA que puede operar por los clientes",
-   "link": "https://www.expansion.com/mercados/2026/10/01/6abd9508e5fdeaeb518b457b.html",
-   "source": "Expansión",
-   "published": "2026-09-30T23:24:34+00:00",
-   "tags": [
-    "Cripto"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Repsol, Iberdrola y Acciona Energía, las ganadoras en un mes de caídas",
-   "link": "https://www.expansion.com/mercados/2026/10/01/6abd8a16e5fdea51348b4589.html",
-   "source": "Expansión",
-   "published": "2026-09-30T22:26:52+00:00",
-   "tags": [
-    "Euro",
-    "Bolsa",
-    "Bonos"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Cuatro materias primas para ganar más del 20%",
-   "link": "https://www.expansion.com/mercados/materias-primas/2026/10/01/6abcf58f468aebe3288b4590.html",
-   "source": "Expansión",
-   "published": "2026-09-30T22:14:11+00:00",
-   "tags": [
-    "Bonos"
-   ],
-   "score": 1
-  },
-  {
-   "title": "El Ibex cae un 2,7% en el mes, el segundo bajista",
-   "link": "https://www.expansion.com/mercados/2026/09/30/6abd68bde5fdeaf4468b458f.html",
-   "source": "Expansión",
-   "published": "2026-09-30T20:54:14+00:00",
-   "tags": [
-    "Bolsa"
-   ],
-   "score": -1
-  },
-  {
-   "title": "Lagarde sugiere que dejará el BCE \"unos meses antes\" de que expire su mandato",
-   "link": "https://www.expansion.com/mercados/2026/09/30/6abd6d51468aebf24f8b457f.html",
-   "source": "Expansión",
-   "published": "2026-09-30T20:14:12+00:00",
-   "tags": [
-    "BCE"
-   ],
-   "score": 0
   }
  ],
- "updated": "2026-10-05T12:11:43+00:00",
+ "updated": "2026-10-06T01:43:18+00:00",
  "sample": false
 }

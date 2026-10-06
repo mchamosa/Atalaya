@@ -204,7 +204,7 @@
    "country": "EUR",
    "title": "German Factory Orders m/m",
    "impact": "Low",
-   "forecast": "-1.0%",
+   "forecast": "-0.9%",
    "previous": "2.5%",
    "actual": ""
   },
@@ -276,7 +276,7 @@
    "country": "EUR",
    "title": "Retail Sales m/m",
    "impact": "Low",
-   "forecast": "0.3%",
+   "forecast": "0.2%",
    "previous": "-0.6%",
    "actual": ""
   },
@@ -303,7 +303,7 @@
    "country": "CAD",
    "title": "Trade Balance",
    "impact": "Low",
-   "forecast": "1.3B",
+   "forecast": "1.5B",
    "previous": "0.8B",
    "actual": ""
   },
@@ -312,7 +312,7 @@
    "country": "USD",
    "title": "Trade Balance",
    "impact": "Low",
-   "forecast": "-95.2B",
+   "forecast": "-100.8B",
    "previous": "-88.6B",
    "actual": ""
   },
@@ -353,6 +353,15 @@
    "actual": ""
   },
   {
+   "date": "2026-10-06T13:15:00-04:00",
+   "country": "USD",
+   "title": "FOMC Member Schmid Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": ""
+  },
+  {
    "date": "2026-10-06T16:30:00-04:00",
    "country": "USD",
    "title": "API Weekly Statistical Bulletin",
@@ -384,7 +393,7 @@
    "country": "JPY",
    "title": "Leading Indicators",
    "impact": "Low",
-   "forecast": "118.1%",
+   "forecast": "118.3%",
    "previous": "117.9%",
    "actual": ""
   },
@@ -456,7 +465,7 @@
    "country": "USD",
    "title": "Consumer Credit m/m",
    "impact": "Low",
-   "forecast": "15.4B",
+   "forecast": "14.4B",
    "previous": "18.1B",
    "actual": ""
   },
@@ -474,7 +483,7 @@
    "country": "JPY",
    "title": "Current Account",
    "impact": "Low",
-   "forecast": "2.10T",
+   "forecast": "2.13T",
    "previous": "2.52T",
    "actual": ""
   },
@@ -501,7 +510,7 @@
    "country": "JPY",
    "title": "Economy Watchers Sentiment",
    "impact": "Low",
-   "forecast": "46.6",
+   "forecast": "46.7",
    "previous": "46.4",
    "actual": ""
   },
@@ -528,6 +537,15 @@
    "country": "GBP",
    "title": "BOE Credit Conditions Survey",
    "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": ""
+  },
+  {
+   "date": "2026-10-08T04:30:00-04:00",
+   "country": "USD",
+   "title": "FOMC Member Waller Speaks",
+   "impact": "Medium",
    "forecast": "",
    "previous": "",
    "actual": ""
@@ -564,6 +582,15 @@
    "country": "EUR",
    "title": "ECB Monetary Policy Meeting Accounts",
    "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": ""
+  },
+  {
+   "date": "2026-10-08T08:15:00-04:00",
+   "country": "GBP",
+   "title": "BOE Gov Bailey Speaks",
+   "impact": "High",
    "forecast": "",
    "previous": "",
    "actual": ""
@@ -672,7 +699,7 @@
    "country": "CAD",
    "title": "Employment Change",
    "impact": "High",
-   "forecast": "9.0K",
+   "forecast": "6.2K",
    "previous": "-41.7K",
    "actual": ""
   },
@@ -713,6 +740,6 @@
    "actual": ""
   }
  ],
- "updated": "2026-10-05T12:11:43+00:00",
+ "updated": "2026-10-06T01:43:18+00:00",
  "sample": false
 }
