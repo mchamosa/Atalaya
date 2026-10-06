@@ -281,21 +281,21 @@
    "actual": ""
   },
   {
-   "date": "2026-10-06T08:15:00-04:00",
-   "country": "USD",
-   "title": "ADP Weekly Employment Change",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": ""
-  },
-  {
-   "date": "2026-10-06T08:16:00-04:00",
+   "date": "2026-10-06T08:14:00-04:00",
    "country": "USD",
    "title": "ADP Weekly Employment Change",
    "impact": "Low",
    "forecast": "",
    "previous": "20.0K",
+   "actual": ""
+  },
+  {
+   "date": "2026-10-06T08:15:00-04:00",
+   "country": "USD",
+   "title": "ADP Weekly Employment Change",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "22.5K",
    "actual": ""
   },
   {
@@ -326,7 +326,7 @@
    "actual": ""
   },
   {
-   "date": "2026-10-06T10:10:00-04:00",
+   "date": "2026-10-06T10:01:00-04:00",
    "country": "USD",
    "title": "RCM/TIPP Economic Optimism",
    "impact": "Low",
@@ -344,7 +344,7 @@
    "actual": ""
   },
   {
-   "date": "2026-10-06T10:50:00-04:00",
+   "date": "2026-10-06T11:46:00-04:00",
    "country": "NZD",
    "title": "GDT Price Index",
    "impact": "Low",
@@ -438,7 +438,7 @@
    "country": "USD",
    "title": "Crude Oil Inventories",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "2.1M",
    "previous": "0.9M",
    "actual": ""
   },
@@ -740,6 +740,6 @@
    "actual": ""
   }
  ],
- "updated": "2026-10-06T11:55:34+00:00",
+ "updated": "2026-10-06T18:17:19+00:00",
  "sample": false
 }
