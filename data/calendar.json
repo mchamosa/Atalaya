@@ -256,19 +256,19 @@
   {
    "date": "2026-10-06T04:30:00-04:00",
    "country": "GBP",
-   "title": "MPC Member Mann Speaks",
+   "title": "Housing Equity Withdrawal q/q",
    "impact": "Low",
-   "forecast": "",
-   "previous": "",
+   "forecast": "-11.9B",
+   "previous": "-12.6B",
    "actual": ""
   },
   {
    "date": "2026-10-06T04:30:00-04:00",
    "country": "GBP",
-   "title": "Housing Equity Withdrawal q/q",
+   "title": "MPC Member Mann Speaks",
    "impact": "Low",
-   "forecast": "-11.9B",
-   "previous": "-12.6B",
+   "forecast": "",
+   "previous": "",
    "actual": ""
   },
   {
@@ -740,6 +740,6 @@
    "actual": ""
   }
  ],
- "updated": "2026-10-06T01:43:18+00:00",
+ "updated": "2026-10-06T11:55:34+00:00",
  "sample": false
 }
