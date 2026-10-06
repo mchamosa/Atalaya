@@ -393,7 +393,7 @@
    "country": "JPY",
    "title": "Leading Indicators",
    "impact": "Low",
-   "forecast": "118.3%",
+   "forecast": "118.1%",
    "previous": "117.9%",
    "actual": ""
   },
@@ -411,7 +411,7 @@
    "country": "GBP",
    "title": "Lloyds HPI m/m",
    "impact": "Low",
-   "forecast": "0.2%",
+   "forecast": "0.0%",
    "previous": "-0.2%",
    "actual": ""
   },
@@ -438,7 +438,7 @@
    "country": "USD",
    "title": "Crude Oil Inventories",
    "impact": "Low",
-   "forecast": "2.1M",
+   "forecast": "1.9M",
    "previous": "0.9M",
    "actual": ""
   },
@@ -465,7 +465,7 @@
    "country": "USD",
    "title": "Consumer Credit m/m",
    "impact": "Low",
-   "forecast": "14.4B",
+   "forecast": "14.5B",
    "previous": "18.1B",
    "actual": ""
   },
@@ -483,7 +483,7 @@
    "country": "JPY",
    "title": "Current Account",
    "impact": "Low",
-   "forecast": "2.13T",
+   "forecast": "2.14T",
    "previous": "2.52T",
    "actual": ""
   },
@@ -519,7 +519,7 @@
    "country": "EUR",
    "title": "German Trade Balance",
    "impact": "Low",
-   "forecast": "18.9B",
+   "forecast": "19.0B",
    "previous": "21.3B",
    "actual": ""
   },
@@ -627,7 +627,7 @@
    "country": "USD",
    "title": "Natural Gas Storage",
    "impact": "Low",
-   "forecast": "",
+   "forecast": "79B",
    "previous": "64B",
    "actual": ""
   },
@@ -699,7 +699,7 @@
    "country": "CAD",
    "title": "Employment Change",
    "impact": "High",
-   "forecast": "6.2K",
+   "forecast": "6.3K",
    "previous": "-41.7K",
    "actual": ""
   },
@@ -717,7 +717,7 @@
    "country": "USD",
    "title": "Prelim UoM Consumer Sentiment",
    "impact": "Medium",
-   "forecast": "47.6",
+   "forecast": "47.5",
    "previous": "47.8",
    "actual": ""
   },
@@ -740,6 +740,6 @@
    "actual": ""
   }
  ],
- "updated": "2026-10-06T18:17:19+00:00",
+ "updated": "2026-10-06T22:45:35+00:00",
  "sample": false
 }
