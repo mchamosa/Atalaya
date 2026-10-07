@@ -1,8 +1,91 @@
 {
- "updated": "2026-10-07T01:00:34+00:00",
+ "updated": "2026-10-07T07:10:54+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
+   "link": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-07T07:10:59+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-07T06:00:00+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación",
+    "DeFi"
+   ],
+   "score": 0
+  },
+  {
+   "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+   "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+   "source": "CoinDesk",
+   "published": "2026-10-07T05:58:25+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch",
+   "link": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-07T04:57:54+00:00",
+   "tags": [
+    "Bitcoin",
+    "Ethereum"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+   "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+   "source": "CoinDesk",
+   "published": "2026-10-07T04:31:14+00:00",
+   "tags": [
+    "Ethereum",
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+   "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+   "source": "CoinDesk",
+   "published": "2026-10-07T04:11:33+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+   "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+   "source": "CoinDesk",
+   "published": "2026-10-07T04:00:51+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+   "link": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-07T01:48:53+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación"
+   ],
+   "score": 0
+  },
   {
    "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
    "link": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -119,18 +202,6 @@
    "tags": [
     "ETF",
     "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-06T20:48:12+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación",
-    "DeFi"
    ],
    "score": 0
   },
@@ -656,16 +727,6 @@
    "score": 0
   },
   {
-   "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
-   "link": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-06T01:47:24+00:00",
-   "tags": [
-    "Hackeos"
-   ],
-   "score": 0
-  },
-  {
    "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
    "link": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
    "source": "Decrypt",
@@ -688,26 +749,10 @@
    "score": 0
   },
   {
-   "title": "Crypto PAC announces support for 32 House candidates in US midterms",
-   "link": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-05T21:42:30+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
    "link": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
    "source": "Decrypt",
    "published": "2026-10-05T21:16:03+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
-   "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-05T20:46:53+00:00",
    "tags": [],
    "score": 0
   },
@@ -885,45 +930,6 @@
    "score": 1
   },
   {
-   "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-   "link": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
-   "source": "CoinDesk",
-   "published": "2026-10-05T11:08:03+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-   "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
-   "source": "CoinDesk",
-   "published": "2026-10-05T10:58:03+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
-   "link": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
-   "source": "CoinDesk",
-   "published": "2026-10-05T10:44:55+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 1
-  },
-  {
-   "title": "Live updates: Bitcoin under pressure as rates continue to rise",
-   "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-   "source": "CoinDesk",
-   "published": "2026-10-05T10:39:57+00:00",
-   "tags": [
-    "Bitcoin",
-    "Fed"
-   ],
-   "score": 1
-  },
-  {
    "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
    "link": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
    "source": "Decrypt",
@@ -992,6 +998,41 @@
    "published": "2026-10-03T16:01:03+00:00",
    "tags": [],
    "score": 0
+  },
+  {
+   "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
+   "link": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
+   "source": "Decrypt",
+   "published": "2026-01-23T16:40:55+00:00",
+   "tags": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "XRP",
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
+   "link": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
+   "source": "Decrypt",
+   "published": "2026-01-22T18:29:30+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!",
+   "link": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
+   "source": "Decrypt",
+   "published": "2026-01-22T16:14:50+00:00",
+   "tags": [
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "XRP"
+   ],
+   "score": 1
   }
  ]
 }
