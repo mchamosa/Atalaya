@@ -1,8 +1,85 @@
 {
- "updated": "2026-10-06T21:12:44+00:00",
+ "updated": "2026-10-07T01:00:34+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
+   "link": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-07T00:01:40+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+   "link": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+   "source": "Decrypt",
+   "published": "2026-10-06T22:46:03+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+   "link": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+   "source": "Decrypt",
+   "published": "2026-10-06T22:16:03+00:00",
+   "tags": [
+    "Regulación",
+    "Stablecoins"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
+   "link": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+   "source": "Decrypt",
+   "published": "2026-10-06T22:00:19+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
+   "link": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-06T21:48:49+00:00",
+   "tags": [
+    "Bitcoin",
+    "Stablecoins"
+   ],
+   "score": 2
+  },
+  {
+   "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
+   "link": "https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-06T21:34:32+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Housingwire’s Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook",
+   "link": "https://bitcoinmagazine.com/videos/housingwires-logan-mohtashami-real-estate-vs-bitcoin-bond-market-outlook",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-06T21:28:54+00:00",
+   "tags": [
+    "Bitcoin",
+    "Fed"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Leon Wankum: BTC Taking on Real Estate’s $300T Monetary Premium",
+   "link": "https://bitcoinmagazine.com/videos/leon-wankum-btc-taking-on-real-estates-300t-monetary-premium",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-06T21:21:43+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
   {
    "title": "StoneX’s Mark Palmer: $435 MSTR Price Target Explained – DAT Consolidation Outlook",
    "link": "https://bitcoinmagazine.com/videos/stonexs-mark-palmer-435-mstr-price-target-explained-dat-consolidation-outlook",
@@ -236,17 +313,6 @@
    "score": -1
   },
   {
-   "title": "Ecash Ecosystem Rises to Challenge in the Defense of Decentralized Custody",
-   "link": "https://bitcoinmagazine.com/featured/ecash-ecosystem-rises-to-challenge-in-the-defense-of-decentralized-custody",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-06T15:55:06+00:00",
-   "tags": [
-    "Bitcoin",
-    "Hackeos"
-   ],
-   "score": 1
-  },
-  {
    "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
    "link": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
    "source": "Decrypt",
@@ -297,7 +363,7 @@
   },
   {
    "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
-   "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "link": "https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
    "published": "2026-10-06T13:30:00+00:00",
    "tags": [
@@ -386,16 +452,6 @@
    "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
    "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
    "source": "CoinDesk",
-   "published": "2026-10-06T11:30:00+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants",
-   "link": "https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants",
-   "source": "Bitcoin Magazine",
    "published": "2026-10-06T11:30:00+00:00",
    "tags": [
     "Bitcoin"
@@ -518,17 +574,6 @@
    "published": "2026-10-06T07:09:33+00:00",
    "tags": [
     "Ethereum"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Bringin Opens Euro Business Accounts for Bitcoin Companies Across 30 European Countries",
-   "link": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-06T07:01:00+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación"
    ],
    "score": 0
   },
@@ -659,18 +704,6 @@
    "score": 0
   },
   {
-   "title": "Coinbase’s Ryan VanGrack: CFTC Approval “Opens Many Doors” for Bitcoin",
-   "link": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-05T21:14:01+00:00",
-   "tags": [
-    "Bitcoin",
-    "ETF",
-    "Regulación"
-   ],
-   "score": 1
-  },
-  {
    "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
    "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -694,16 +727,6 @@
    "source": "Decrypt",
    "published": "2026-10-05T20:19:38+00:00",
    "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
-   "link": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-05T19:53:52+00:00",
-   "tags": [
-    "Stablecoins"
-   ],
    "score": 0
   },
   {
@@ -969,34 +992,6 @@
    "published": "2026-10-03T16:01:03+00:00",
    "tags": [],
    "score": 0
-  },
-  {
-   "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
-   "link": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
-   "source": "Decrypt",
-   "published": "2026-10-03T15:01:03+00:00",
-   "tags": [
-    "Memecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "The Pope Has Thoughts on AI Art—And They're Not Flattering",
-   "link": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
-   "source": "Decrypt",
-   "published": "2026-10-03T13:01:04+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
-   "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
-   "source": "Decrypt",
-   "published": "2026-10-02T21:16:04+00:00",
-   "tags": [
-    "Hackeos"
-   ],
-   "score": -1
   }
  ]
 }
