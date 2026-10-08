@@ -560,6 +560,15 @@
    "actual": ""
   },
   {
+   "date": "2026-10-08T05:00:00-04:00",
+   "country": "GBP",
+   "title": "MPC Member Pill Speaks",
+   "impact": "Low",
+   "forecast": "",
+   "previous": "",
+   "actual": ""
+  },
+  {
    "date": "2026-10-08T05:15:00-04:00",
    "country": "GBP",
    "title": "MPC Member Greene Speaks",
@@ -572,15 +581,6 @@
    "date": "2026-10-08T05:15:00-04:00",
    "country": "EUR",
    "title": "Eurogroup Meetings",
-   "impact": "Low",
-   "forecast": "",
-   "previous": "",
-   "actual": ""
-  },
-  {
-   "date": "2026-10-08T06:30:00-04:00",
-   "country": "GBP",
-   "title": "MPC Member Pill Speaks",
    "impact": "Low",
    "forecast": "",
    "previous": "",
@@ -749,6 +749,6 @@
    "actual": ""
   }
  ],
- "updated": "2026-10-07T23:32:39+00:00",
+ "updated": "2026-10-08T11:55:13+00:00",
  "sample": false
 }
