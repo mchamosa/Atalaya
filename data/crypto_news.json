@@ -1,8 +1,39 @@
 {
- "updated": "2026-10-07T20:34:51+00:00",
+ "updated": "2026-10-08T00:23:24+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
+   "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-08T00:04:32+00:00",
+   "tags": [
+    "Ethereum",
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+   "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+   "source": "Decrypt",
+   "published": "2026-10-07T21:46:03+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+   "link": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+   "source": "Decrypt",
+   "published": "2026-10-07T21:16:03+00:00",
+   "tags": [
+    "Ethereum"
+   ],
+   "score": 0
+  },
   {
    "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
    "link": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -797,14 +828,6 @@
    "score": -1
   },
   {
-   "title": "ECB policymaker warns of fragmentation without digital euro",
-   "link": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-06T16:32:57+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
    "link": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
    "source": "Decrypt",
@@ -956,27 +979,6 @@
    "tags": [
     "Bitcoin",
     "Ethereum",
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
-   "link": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
-   "source": "Decrypt",
-   "published": "2026-10-05T16:46:03+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
-   "link": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
-   "source": "Decrypt",
-   "published": "2026-10-05T16:10:00+00:00",
-   "tags": [
-    "Bitcoin",
     "Regulación"
    ],
    "score": 0
