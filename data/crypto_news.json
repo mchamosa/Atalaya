@@ -1,10 +1,86 @@
 {
- "updated": "2026-10-08T00:23:24+00:00",
+ "updated": "2026-10-08T06:37:12+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
   {
-   "title": "Justin Drake urges crypto ‘bunker mode,’ as AI could break wallet security within months",
+   "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+   "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+   "source": "CoinDesk",
+   "published": "2026-10-08T06:17:13+00:00",
+   "tags": [
+    "XRP"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-08T06:00:00+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación",
+    "DeFi"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+   "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+   "source": "CoinDesk",
+   "published": "2026-10-08T05:40:41+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
+   "link": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-08T05:06:51+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+   "link": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-08T04:28:27+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+   "link": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+   "source": "CoinDesk",
+   "published": "2026-10-08T04:23:23+00:00",
+   "tags": [
+    "Ethereum"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+   "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+   "source": "CoinDesk",
+   "published": "2026-10-08T04:00:07+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+   "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+   "source": "CoinDesk",
+   "published": "2026-10-08T00:35:24+00:00",
+   "tags": [],
+   "score": -1
+  },
+  {
+   "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
    "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
    "published": "2026-10-08T00:04:32+00:00",
@@ -110,18 +186,6 @@
    "source": "CoinDesk",
    "published": "2026-10-07T18:59:32+00:00",
    "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-07T18:55:36+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación",
-    "DeFi"
-   ],
    "score": 0
   },
   {
@@ -781,42 +845,6 @@
    "score": -1
   },
   {
-   "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
-   "link": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-06T17:19:58+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 1
-  },
-  {
-   "title": "Securitize stock jumps 8% amid South Korea tokenization push",
-   "link": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-06T17:04:41+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 1
-  },
-  {
-   "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-   "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
-   "source": "CoinDesk",
-   "published": "2026-10-06T17:00:00+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Crypto is expanding the boundaries of what can be priced",
-   "link": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
-   "source": "CoinDesk",
-   "published": "2026-10-06T16:50:26+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
    "link": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
    "source": "Decrypt",
@@ -839,26 +867,6 @@
    "score": 0
   },
   {
-   "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-   "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-   "source": "CoinDesk",
-   "published": "2026-10-06T15:20:30+00:00",
-   "tags": [
-    "XRP"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-   "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-   "source": "CoinDesk",
-   "published": "2026-10-06T13:02:33+00:00",
-   "tags": [
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
    "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
    "link": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
    "source": "Decrypt",
@@ -866,14 +874,6 @@
    "tags": [
     "XRP"
    ],
-   "score": 0
-  },
-  {
-   "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-   "link": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
-   "source": "CoinDesk",
-   "published": "2026-10-06T12:31:51+00:00",
-   "tags": [],
    "score": 0
   },
   {
