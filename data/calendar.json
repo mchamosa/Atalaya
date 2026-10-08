@@ -708,7 +708,7 @@
    "country": "CAD",
    "title": "Employment Change",
    "impact": "High",
-   "forecast": "6.3K",
+   "forecast": "6.1K",
    "previous": "-41.7K",
    "actual": ""
   },
@@ -749,6 +749,6 @@
    "actual": ""
   }
  ],
- "updated": "2026-10-08T11:55:13+00:00",
+ "updated": "2026-10-08T18:47:02+00:00",
  "sample": false
 }
