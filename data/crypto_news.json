@@ -1,8 +1,54 @@
 {
- "updated": "2026-10-08T19:53:13+00:00",
+ "updated": "2026-10-09T00:17:41+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+   "link": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-08T22:35:00+00:00",
+   "tags": [
+    "Stablecoins"
+   ],
+   "score": 1
+  },
+  {
+   "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
+   "link": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
+   "source": "Decrypt",
+   "published": "2026-10-08T21:46:03+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+   "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+   "source": "CoinDesk",
+   "published": "2026-10-08T21:22:58+00:00",
+   "tags": [
+    "Stablecoins"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
+   "link": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
+   "source": "Decrypt",
+   "published": "2026-10-08T21:16:03+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
+   "link": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
+   "source": "Decrypt",
+   "published": "2026-10-08T20:16:03+00:00",
+   "tags": [
+    "Ethereum"
+   ],
+   "score": 0
+  },
   {
    "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
    "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
@@ -496,14 +542,14 @@
    "score": 0
   },
   {
-   "title": "Live updates: Bitcoin adds to declines, testing $80,000 level",
+   "title": "Live updates: Bitcoin pulls off worst levels late in Thursday session",
    "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
    "source": "CoinDesk",
    "published": "2026-10-08T10:44:47+00:00",
    "tags": [
     "Bitcoin"
    ],
-   "score": -1
+   "score": 0
   },
   {
    "title": "Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June",
@@ -697,14 +743,6 @@
    "score": 1
   },
   {
-   "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-   "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-   "source": "CoinDesk",
-   "published": "2026-10-08T00:35:24+00:00",
-   "tags": [],
-   "score": -1
-  },
-  {
    "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
    "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -887,14 +925,6 @@
    "score": 1
   },
   {
-   "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO",
-   "link": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-07T12:29:39+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
    "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
    "source": "Decrypt",
@@ -969,35 +999,6 @@
    "published": "2026-10-06T20:28:53+00:00",
    "tags": [
     "Ethereum"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
-   "link": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
-   "source": "Decrypt",
-   "published": "2026-10-06T19:46:04+00:00",
-   "tags": [
-    "Regulación",
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better",
-   "link": "https://decrypt.co/380211/bryan-johnson-best-anti-aging-filters",
-   "source": "Decrypt",
-   "published": "2026-10-06T19:15:04+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
-   "link": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink",
-   "source": "Decrypt",
-   "published": "2026-10-06T18:42:34+00:00",
-   "tags": [
-    "ETF"
    ],
    "score": 0
   }
