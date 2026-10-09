@@ -1,8 +1,190 @@
 {
- "updated": "2026-10-09T13:46:31+00:00",
+ "updated": "2026-10-09T19:30:18+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+   "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T19:04:03+00:00",
+   "tags": [
+    "Stablecoins"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+   "link": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+   "source": "Decrypt",
+   "published": "2026-10-09T18:46:03+00:00",
+   "tags": [
+    "Regulación",
+    "Stablecoins"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T18:30:11+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación",
+    "DeFi"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Robinhood Chain considers technology that gives paying traders priority",
+   "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+   "source": "CoinDesk",
+   "published": "2026-10-09T18:11:00+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
+   "link": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
+   "source": "Decrypt",
+   "published": "2026-10-09T18:06:03+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
+   "link": "https://decrypt.co/380599/bitcoin-rebounds-traders-predict-more-downside",
+   "source": "Decrypt",
+   "published": "2026-10-09T17:36:26+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+   "link": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T17:21:07+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+   "link": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-09T17:11:16+00:00",
+   "tags": [
+    "Bitcoin",
+    "ETF"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+   "link": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T17:02:47+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+   "link": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-09T16:43:45+00:00",
+   "tags": [
+    "Bitcoin",
+    "Hackeos"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+   "link": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+   "source": "Decrypt",
+   "published": "2026-10-09T16:36:03+00:00",
+   "tags": [
+    "Ethereum"
+   ],
+   "score": 1
+  },
+  {
+   "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+   "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T16:22:45+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 1
+  },
+  {
+   "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+   "link": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+   "source": "Decrypt",
+   "published": "2026-10-09T16:08:23+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+   "link": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+   "source": "Decrypt",
+   "published": "2026-10-09T16:07:07+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
+   "link": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T15:51:53+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
+   "link": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
+   "source": "Decrypt",
+   "published": "2026-10-09T15:30:36+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
+   "link": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T15:20:36+00:00",
+   "tags": [
+    "Bitcoin",
+    "Hackeos"
+   ],
+   "score": 0
+  },
+  {
+   "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+   "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+   "source": "CoinDesk",
+   "published": "2026-10-09T14:55:23+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+   "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+   "source": "CoinDesk",
+   "published": "2026-10-09T14:47:27+00:00",
+   "tags": [],
+   "score": 0
+  },
   {
    "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
    "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -40,18 +222,6 @@
    "tags": [
     "Bitcoin",
     "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-09T13:31:41+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación",
-    "DeFi"
    ],
    "score": 0
   },
@@ -258,16 +428,14 @@
    "score": -1
   },
   {
-   "title": "Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday",
+   "title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
    "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
    "source": "CoinDesk",
    "published": "2026-10-09T06:51:32+00:00",
    "tags": [
-    "Bitcoin",
-    "XRP",
-    "ETF"
+    "Bitcoin"
    ],
-   "score": 2
+   "score": 0
   },
   {
    "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
@@ -564,16 +732,6 @@
    "score": 0
   },
   {
-   "title": "EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets",
-   "link": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-08T16:53:52+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
    "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
    "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
    "source": "Decrypt",
@@ -608,16 +766,6 @@
    "link": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
    "published": "2026-10-08T15:55:55+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Standard Chartered to Offer Digital Asset Custody in Singapore",
-   "link": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-08T15:46:05+00:00",
    "tags": [
     "Bitcoin"
    ],
@@ -682,32 +830,6 @@
    "tags": [
     "Solana",
     "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
-   "link": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
-   "source": "CoinDesk",
-   "published": "2026-10-08T14:39:48+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
-   "link": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
-   "source": "CoinDesk",
-   "published": "2026-10-08T14:24:24+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
-   "link": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
-   "source": "CoinDesk",
-   "published": "2026-10-08T14:03:20+00:00",
-   "tags": [
-    "Bitcoin"
    ],
    "score": 0
   },
@@ -808,27 +930,6 @@
    "score": 1
   },
   {
-   "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
-   "link": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T09:56:07+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 2
-  },
-  {
-   "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-   "link": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T09:42:04+00:00",
-   "tags": [
-    "Regulación",
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
    "title": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
    "link": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
    "source": "Decrypt",
@@ -838,42 +939,6 @@
     "Stablecoins"
    ],
    "score": 0
-  },
-  {
-   "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-   "link": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T08:24:24+00:00",
-   "tags": [
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
-   "link": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T08:17:14+00:00",
-   "tags": [],
-   "score": 1
-  },
-  {
-   "title": "Standard Chartered plans institutional crypto custody in Singapore",
-   "link": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T08:08:03+00:00",
-   "tags": [
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Greece plans 10% capital gains tax on cryptocurrencies",
-   "link": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T08:03:47+00:00",
-   "tags": [],
-   "score": 1
   },
   {
    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
@@ -951,66 +1016,6 @@
     "Bitcoin"
    ],
    "score": 0
-  },
-  {
-   "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
-   "link": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
-   "source": "Decrypt",
-   "published": "2026-10-07T15:34:31+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
-   "link": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
-   "source": "Decrypt",
-   "published": "2026-10-07T14:55:32+00:00",
-   "tags": [
-    "Ethereum"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
-   "link": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
-   "source": "Decrypt",
-   "published": "2026-10-07T12:39:09+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 1
-  },
-  {
-   "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
-   "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
-   "source": "Decrypt",
-   "published": "2026-10-07T12:18:43+00:00",
-   "tags": [
-    "XRP"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
-   "link": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
-   "source": "Decrypt",
-   "published": "2026-10-07T10:49:16+00:00",
-   "tags": [
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
-   "link": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
-   "source": "Decrypt",
-   "published": "2026-10-07T09:58:06+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 1
   }
  ]
 }
