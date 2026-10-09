@@ -1,20 +1,273 @@
 {
- "updated": "2026-10-09T06:39:35+00:00",
+ "updated": "2026-10-09T13:46:31+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
   {
-   "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+   "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
+   "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T13:49:22+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "UTXO’s Loren Asmus: The $300T Bond Market Is Bitcoin’s Next Frontier",
+   "link": "https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-09T13:44:49+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin Core developer responds to AI & Quantum Risk",
+   "link": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-09T13:38:38+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
+   "link": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-09T13:33:09+00:00",
+   "tags": [
+    "Bitcoin",
+    "Stablecoins"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T13:31:41+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación",
+    "DeFi"
+   ],
+   "score": 0
+  },
+  {
+   "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
+   "link": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T13:30:00+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
+   "link": "https://bitcoinmagazine.com/videos/calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-09T13:28:10+00:00",
+   "tags": [
+    "Bitcoin",
+    "ETF",
+    "DeFi"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin Bleeds in Uptober—How Low Can It Go? Experts Weigh In",
+   "link": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
+   "source": "Decrypt",
+   "published": "2026-10-09T13:20:12+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
+   "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+   "source": "CoinDesk",
+   "published": "2026-10-09T12:23:54+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
+   "link": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+   "source": "Decrypt",
+   "published": "2026-10-09T12:04:07+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
+   "link": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
+   "source": "Decrypt",
+   "published": "2026-10-09T11:41:15+00:00",
+   "tags": [],
+   "score": -1
+  },
+  {
+   "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
+   "link": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
+   "source": "CoinDesk",
+   "published": "2026-10-09T11:39:05+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
+   "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
+   "source": "CoinDesk",
+   "published": "2026-10-09T11:09:04+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+   "link": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T10:49:24+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+   "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
+   "source": "CoinDesk",
+   "published": "2026-10-09T10:44:22+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
+   "link": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T10:34:37+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+   "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+   "source": "CoinDesk",
+   "published": "2026-10-09T10:16:55+00:00",
+   "tags": [
+    "Bitcoin",
+    "Ethereum",
+    "ETF"
+   ],
+   "score": 0
+  },
+  {
+   "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+   "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T10:16:48+00:00",
+   "tags": [
+    "Regulación",
+    "Stablecoins"
+   ],
+   "score": 0
+  },
+  {
+   "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
+   "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+   "source": "CoinDesk",
+   "published": "2026-10-09T10:14:59+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
+   "link": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+   "source": "Decrypt",
+   "published": "2026-10-09T10:11:51+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+   "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T09:50:01+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": -1
+  },
+  {
+   "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
+   "link": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+   "source": "CoinDesk",
+   "published": "2026-10-09T09:20:16+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
+   "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
+   "source": "CoinDesk",
+   "published": "2026-10-09T09:08:09+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
+   "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+   "source": "CoinDesk",
+   "published": "2026-10-09T09:06:00+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
+   "link": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+   "source": "Decrypt",
+   "published": "2026-10-09T08:59:31+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
+   "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T07:34:44+00:00",
+   "tags": [
+    "Bitcoin",
+    "Ethereum",
+    "ETF"
+   ],
+   "score": -1
+  },
+  {
+   "title": "Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday",
    "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
    "source": "CoinDesk",
    "published": "2026-10-09T06:51:32+00:00",
    "tags": [
     "Bitcoin",
-    "Ethereum",
     "XRP",
     "ETF"
    ],
-   "score": -1
+   "score": 2
   },
   {
    "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
@@ -23,18 +276,6 @@
    "published": "2026-10-09T06:40:54+00:00",
    "tags": [
     "Bitcoin",
-    "DeFi"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-09T05:38:03+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación",
     "DeFi"
    ],
    "score": 0
@@ -426,17 +667,6 @@
    "score": 0
   },
   {
-   "title": "Understanding Digital Money and Digital Yield",
-   "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-money-digital-yield",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-08T15:22:29+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
    "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
    "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
    "source": "CoinDesk",
@@ -482,43 +712,11 @@
    "score": 0
   },
   {
-   "title": "Why Bitcoin’s Liquidity Advantage Matters as Institutions Move In",
-   "link": "https://bitcoinmagazine.com/markets/why-bitcoins-liquidity-advantage-matters-as-institutions-move-in",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-08T13:49:39+00:00",
-   "tags": [
-    "Bitcoin",
-    "DeFi"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Shawn Owen: Bitcoin’s First Institutional Cycle Has Arrived",
-   "link": "https://bitcoinmagazine.com/videos/shawn-owen-bitcoins-first-institutional-cycle-has-arrived",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-08T13:46:59+00:00",
-   "tags": [
-    "Bitcoin",
-    "DeFi"
-   ],
-   "score": 0
-  },
-  {
    "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
    "link": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
    "published": "2026-10-08T13:42:27+00:00",
    "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Josh Young: “Massive” Currency Debasement to Come From Oil’s Run Higher",
-   "link": "https://bitcoinmagazine.com/videos/josh-young-massive-currency-debasement-to-come-from-oils-run-higher",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-08T13:39:35+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
    "score": 0
   },
   {
@@ -531,17 +729,6 @@
     "Hackeos"
    ],
    "score": 2
-  },
-  {
-   "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
-   "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-   "source": "CoinDesk",
-   "published": "2026-10-08T13:06:24+00:00",
-   "tags": [
-    "Solana",
-    "Regulación"
-   ],
-   "score": 0
   },
   {
    "title": "EU lawmakers push crypto onto anti-corruption agenda",
@@ -582,17 +769,6 @@
    "score": 0
   },
   {
-   "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
-   "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
-   "source": "CoinDesk",
-   "published": "2026-10-08T11:47:16+00:00",
-   "tags": [
-    "Bitcoin",
-    "Ethereum"
-   ],
-   "score": 1
-  },
-  {
    "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft",
    "link": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
    "source": "Decrypt",
@@ -601,35 +777,6 @@
     "Hackeos"
    ],
    "score": -1
-  },
-  {
-   "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
-   "link": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
-   "source": "CoinDesk",
-   "published": "2026-10-08T11:36:25+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
-   "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
-   "source": "CoinDesk",
-   "published": "2026-10-08T11:30:19+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
-   "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
-   "source": "CoinDesk",
-   "published": "2026-10-08T11:15:00+00:00",
-   "tags": [
-    "Bitcoin",
-    "ETF"
-   ],
-   "score": 0
   },
   {
    "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
@@ -651,16 +798,6 @@
    "score": 0
   },
   {
-   "title": "Live updates: Bitcoin pulls off worst levels late in Thursday session",
-   "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
-   "source": "CoinDesk",
-   "published": "2026-10-08T10:44:47+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
    "title": "Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June",
    "link": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
    "source": "Decrypt",
@@ -669,17 +806,6 @@
     "Fed"
    ],
    "score": 1
-  },
-  {
-   "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
-   "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
-   "source": "CoinDesk",
-   "published": "2026-10-08T10:30:41+00:00",
-   "tags": [
-    "Bitcoin",
-    "Ethereum"
-   ],
-   "score": 0
   },
   {
    "title": "Bitcoin monthly ‘new money’ inflows near $5B as BTC price rally stalls",
@@ -701,22 +827,6 @@
     "Stablecoins"
    ],
    "score": 0
-  },
-  {
-   "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
-   "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
-   "source": "CoinDesk",
-   "published": "2026-10-08T09:32:13+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-   "link": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-   "source": "CoinDesk",
-   "published": "2026-10-08T09:17:18+00:00",
-   "tags": [],
-   "score": 1
   },
   {
    "title": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
@@ -766,45 +876,6 @@
    "score": 1
   },
   {
-   "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
-   "link": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T07:30:42+00:00",
-   "tags": [
-    "Bitcoin",
-    "Ethereum",
-    "ETF"
-   ],
-   "score": -1
-  },
-  {
-   "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
-   "link": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T05:06:51+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
-   "link": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T04:28:27+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-   "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T00:04:32+00:00",
-   "tags": [
-    "Ethereum",
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
    "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
    "source": "Decrypt",
@@ -821,16 +892,6 @@
    "published": "2026-10-07T21:16:03+00:00",
    "tags": [
     "Ethereum"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
-   "link": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-07T20:48:34+00:00",
-   "tags": [
-    "Stablecoins"
    ],
    "score": 0
   },
@@ -878,22 +939,6 @@
    "link": "https://decrypt.co/380326/google-build-video-game-typing-description",
    "source": "Decrypt",
    "published": "2026-10-07T18:08:51+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
-   "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-07T18:00:10+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
-   "link": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-07T17:46:59+00:00",
    "tags": [],
    "score": 0
   },
@@ -966,54 +1011,6 @@
     "Bitcoin"
    ],
    "score": 1
-  },
-  {
-   "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
-   "link": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
-   "source": "Decrypt",
-   "published": "2026-10-07T09:01:03+00:00",
-   "tags": [
-    "Bitcoin",
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
-   "link": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
-   "source": "Decrypt",
-   "published": "2026-10-06T22:46:03+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-   "link": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
-   "source": "Decrypt",
-   "published": "2026-10-06T22:16:03+00:00",
-   "tags": [
-    "Regulación",
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
-   "link": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
-   "source": "Decrypt",
-   "published": "2026-10-06T22:00:19+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
-   "link": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
-   "source": "Decrypt",
-   "published": "2026-10-06T20:28:53+00:00",
-   "tags": [
-    "Ethereum"
-   ],
-   "score": 0
   }
  ]
 }
