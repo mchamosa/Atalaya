@@ -1,8 +1,67 @@
 {
- "updated": "2026-10-09T19:30:18+00:00",
+ "updated": "2026-10-09T23:27:49+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+   "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+   "source": "CoinDesk",
+   "published": "2026-10-09T21:21:54+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+   "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T20:39:17+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+   "link": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-09T20:14:02+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "‘We Know Where It Is’: Treasury Secretary Threatens To Freeze $1B of Iran’s Crypto",
+   "link": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-09T20:10:14+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Here’s How Not To Screw up Your Bitcoin Privacy",
+   "link": "https://bitcoinmagazine.com/news/seth-for-privacy-bitcoin-tips",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-09T20:02:39+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+   "link": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+   "source": "Decrypt",
+   "published": "2026-10-09T19:47:01+00:00",
+   "tags": [
+    "Regulación"
+   ],
+   "score": 0
+  },
   {
    "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
    "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -650,18 +709,6 @@
    "score": 0
   },
   {
-   "title": "Greece Plans Crypto Capital Gains Tax: Report",
-   "link": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-08T18:39:39+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación",
-    "Fed"
-   ],
-   "score": 1
-  },
-  {
    "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
    "link": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -709,17 +756,6 @@
     "Fed"
    ],
    "score": 0
-  },
-  {
-   "title": "Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough",
-   "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-08T17:14:58+00:00",
-   "tags": [
-    "Bitcoin",
-    "Fed"
-   ],
-   "score": -1
   },
   {
    "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
@@ -815,14 +851,6 @@
    "score": 0
   },
   {
-   "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
-   "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
-   "source": "CoinDesk",
-   "published": "2026-10-08T15:11:15+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
    "link": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
    "source": "Decrypt",
@@ -871,16 +899,6 @@
    "score": 0
   },
   {
-   "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
-   "link": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T12:03:28+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
-  },
-  {
    "title": "Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher",
    "link": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
    "source": "Decrypt",
@@ -899,17 +917,6 @@
     "Hackeos"
    ],
    "score": -1
-  },
-  {
-   "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
-   "link": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T11:03:36+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación"
-   ],
-   "score": 0
   },
   {
    "title": "Former PlayStation Exec Slams Sony's Move to Kill Discs: 'What Are You Buying?'",
@@ -1008,13 +1015,25 @@
    "score": 0
   },
   {
-   "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
-   "link": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+   "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
+   "link": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
    "source": "Decrypt",
-   "published": "2026-10-07T16:56:56+00:00",
+   "published": "2026-01-23T16:40:55+00:00",
    "tags": [
-    "Bitcoin"
+    "Bitcoin",
+    "Ethereum",
+    "Solana",
+    "XRP",
+    "Regulación"
    ],
+   "score": 0
+  },
+  {
+   "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
+   "link": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
+   "source": "Decrypt",
+   "published": "2026-01-22T18:29:30+00:00",
+   "tags": [],
    "score": 0
   }
  ]
