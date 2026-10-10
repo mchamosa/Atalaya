@@ -1,8 +1,64 @@
 {
- "updated": "2026-10-10T02:42:31+00:00",
+ "updated": "2026-10-10T09:44:17+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "Tech chief says EU can fend off rogue AI risk: Report",
+   "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-10T08:41:06+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+   "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-10T07:10:43+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+   "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+   "source": "CoinDesk",
+   "published": "2026-10-10T05:43:00+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": -1
+  },
+  {
+   "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+   "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+   "source": "CoinDesk",
+   "published": "2026-10-10T04:44:35+00:00",
+   "tags": [],
+   "score": -1
+  },
+  {
+   "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+   "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+   "source": "CoinDesk",
+   "published": "2026-10-10T04:20:07+00:00",
+   "tags": [
+    "XRP"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+   "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+   "source": "CoinDesk",
+   "published": "2026-10-10T03:00:00+00:00",
+   "tags": [
+    "Stablecoins"
+   ],
+   "score": 0
+  },
   {
    "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
    "link": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
@@ -731,22 +787,6 @@
    "score": 0
   },
   {
-   "title": "Crypto crumbles as anniversary of flash crash nears",
-   "link": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
-   "source": "CoinDesk",
-   "published": "2026-10-08T18:14:39+00:00",
-   "tags": [],
-   "score": -1
-  },
-  {
-   "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-   "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
-   "source": "CoinDesk",
-   "published": "2026-10-08T18:06:41+00:00",
-   "tags": [],
-   "score": 1
-  },
-  {
    "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
    "link": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
    "source": "Decrypt",
@@ -809,17 +849,6 @@
    "score": 0
   },
   {
-   "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
-   "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-   "source": "CoinDesk",
-   "published": "2026-10-08T15:43:04+00:00",
-   "tags": [
-    "Bitcoin",
-    "Hackeos"
-   ],
-   "score": -1
-  },
-  {
    "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
    "link": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
    "source": "Decrypt",
@@ -841,17 +870,6 @@
    "score": 0
   },
   {
-   "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-   "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-   "source": "CoinDesk",
-   "published": "2026-10-08T15:23:26+00:00",
-   "tags": [
-    "Regulación",
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
    "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
    "link": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
    "source": "Decrypt",
@@ -868,27 +886,6 @@
    "source": "Cointelegraph",
    "published": "2026-10-08T13:42:27+00:00",
    "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Crypto lending rises again… but have they solved the risks?",
-   "link": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T13:30:00+00:00",
-   "tags": [
-    "DeFi",
-    "Hackeos"
-   ],
-   "score": 2
-  },
-  {
-   "title": "EU lawmakers push crypto onto anti-corruption agenda",
-   "link": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T12:54:21+00:00",
-   "tags": [
-    "Regulación"
-   ],
    "score": 0
   },
   {
@@ -1012,28 +1009,6 @@
    "link": "https://decrypt.co/380326/google-build-video-game-typing-description",
    "source": "Decrypt",
    "published": "2026-10-07T18:08:51+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
-   "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
-   "link": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
-   "source": "Decrypt",
-   "published": "2026-01-23T16:40:55+00:00",
-   "tags": [
-    "Bitcoin",
-    "Ethereum",
-    "Solana",
-    "XRP",
-    "Regulación"
-   ],
-   "score": 0
-  },
-  {
-   "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
-   "link": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
-   "source": "Decrypt",
-   "published": "2026-01-22T18:29:30+00:00",
    "tags": [],
    "score": 0
   }
