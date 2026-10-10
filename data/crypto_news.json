@@ -1,8 +1,88 @@
 {
- "updated": "2026-10-10T09:44:17+00:00",
+ "updated": "2026-10-10T15:51:09+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+   "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+   "source": "Decrypt",
+   "published": "2026-10-10T16:01:04+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+   "link": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+   "source": "Decrypt",
+   "published": "2026-10-10T15:01:03+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+   "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+   "source": "Decrypt",
+   "published": "2026-10-10T13:01:03+00:00",
+   "tags": [
+    "Regulación",
+    "Stablecoins"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Here’s what happened in crypto today",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-10T12:30:00+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación",
+    "DeFi"
+   ],
+   "score": 0
+  },
+  {
+   "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+   "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+   "source": "CoinDesk",
+   "published": "2026-10-10T12:00:00+00:00",
+   "tags": [
+    "Bitcoin",
+    "Ethereum"
+   ],
+   "score": -1
+  },
+  {
+   "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+   "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+   "source": "CoinDesk",
+   "published": "2026-10-10T12:00:00+00:00",
+   "tags": [
+    "DeFi"
+   ],
+   "score": 0
+  },
+  {
+   "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
+   "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source": "Cointelegraph",
+   "published": "2026-10-10T11:52:14+00:00",
+   "tags": [],
+   "score": 0
+  },
+  {
+   "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+   "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+   "source": "CoinDesk",
+   "published": "2026-10-10T11:00:00+00:00",
+   "tags": [
+    "Bitcoin"
+   ],
+   "score": -1
+  },
   {
    "title": "Tech chief says EU can fend off rogue AI risk: Report",
    "link": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -147,18 +227,6 @@
    "tags": [
     "Regulación",
     "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Here’s what happened in crypto today",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-09T18:30:11+00:00",
-   "tags": [
-    "Bitcoin",
-    "Regulación",
-    "DeFi"
    ],
    "score": 0
   },
@@ -628,16 +696,6 @@
    "score": 0
   },
   {
-   "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
-   "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
-   "source": "CoinDesk",
-   "published": "2026-10-09T03:27:38+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": -1
-  },
-  {
    "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
    "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "source": "Cointelegraph",
@@ -678,16 +736,6 @@
    "score": 0
   },
   {
-   "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-   "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-   "source": "CoinDesk",
-   "published": "2026-10-08T21:22:58+00:00",
-   "tags": [
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
    "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
    "link": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
    "source": "Decrypt",
@@ -701,17 +749,6 @@
    "source": "Decrypt",
    "published": "2026-10-08T20:16:03+00:00",
    "tags": [
-    "Ethereum"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
-   "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
-   "source": "CoinDesk",
-   "published": "2026-10-08T19:46:15+00:00",
-   "tags": [
-    "Bitcoin",
     "Ethereum"
    ],
    "score": 0
@@ -881,14 +918,6 @@
    "score": 0
   },
   {
-   "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
-   "link": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source": "Cointelegraph",
-   "published": "2026-10-08T13:42:27+00:00",
-   "tags": [],
-   "score": 0
-  },
-  {
    "title": "AI Video Game Mod Mashups Are Taking Off—Here Are the Wackiest Examples",
    "link": "https://decrypt.co/380407/ai-video-game-mod-mashups-are-taking-off-here-are-the-wackiest-examples",
    "source": "Decrypt",
@@ -982,35 +1011,6 @@
     "Regulación"
    ],
    "score": -1
-  },
-  {
-   "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-   "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
-   "source": "Decrypt",
-   "published": "2026-10-07T19:46:04+00:00",
-   "tags": [
-    "Stablecoins"
-   ],
-   "score": 0
-  },
-  {
-   "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
-   "link": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
-   "source": "Decrypt",
-   "published": "2026-10-07T19:10:31+00:00",
-   "tags": [
-    "Regulación",
-    "Hackeos"
-   ],
-   "score": -1
-  },
-  {
-   "title": "Google Lets You Build a Video Game by Typing a Description",
-   "link": "https://decrypt.co/380326/google-build-video-game-typing-description",
-   "source": "Decrypt",
-   "published": "2026-10-07T18:08:51+00:00",
-   "tags": [],
-   "score": 0
   }
  ]
 }
