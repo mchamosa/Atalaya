@@ -1,8 +1,19 @@
 {
- "updated": "2026-10-09T23:27:49+00:00",
+ "updated": "2026-10-10T02:42:31+00:00",
  "sample": false,
  "source": "CoinDesk, Cointelegraph, Cointelegraph ES, Decrypt, Bitcoin Magazine",
  "items": [
+  {
+   "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
+   "link": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
+   "source": "Bitcoin Magazine",
+   "published": "2026-10-10T00:53:09+00:00",
+   "tags": [
+    "Bitcoin",
+    "Regulación"
+   ],
+   "score": 0
+  },
   {
    "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
    "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
@@ -687,16 +698,6 @@
     "Bitcoin"
    ],
    "score": 1
-  },
-  {
-   "title": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions",
-   "link": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
-   "source": "Bitcoin Magazine",
-   "published": "2026-10-08T19:10:07+00:00",
-   "tags": [
-    "Bitcoin"
-   ],
-   "score": 0
   },
   {
    "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
