@@ -8,10 +8,10 @@
    "prev_month": 38
   },
   "crypto": {
-   "value": 59,
+   "value": 64,
    "label": "Codicia",
-   "prev_week": 72,
-   "prev_month": 66
+   "prev_week": 67,
+   "prev_month": 69
   }
  },
  "assets": [
@@ -19,40 +19,40 @@
    "symbol": "GC=F",
    "name": "Oro",
    "group": "Materias primas",
-   "price": 4220.3,
-   "chg1d": 1.52,
-   "chg5d": 1.39,
-   "chg1m": -4.28,
-   "rsi": 43.9,
+   "price": 4216.3,
+   "chg1d": 1.43,
+   "chg5d": 1.3,
+   "chg1m": -4.37,
+   "rsi": 43.5,
    "above_sma50": false,
    "above_sma200": false,
-   "bias": -54
+   "bias": -55
   },
   {
    "symbol": "SI=F",
    "name": "Plata",
    "group": "Materias primas",
-   "price": 61.11,
-   "chg1d": 3.46,
-   "chg5d": 1.89,
-   "chg1m": -5.34,
-   "rsi": 44.7,
+   "price": 60.67,
+   "chg1d": 2.72,
+   "chg5d": 1.16,
+   "chg1m": -6.02,
+   "rsi": 43.0,
    "above_sma50": false,
    "above_sma200": false,
-   "bias": -53
+   "bias": -60
   },
   {
    "symbol": "CL=F",
    "name": "Petróleo WTI",
    "group": "Materias primas",
-   "price": 91.66,
-   "chg1d": 0.19,
-   "chg5d": 0.6,
-   "chg1m": -8.39,
-   "rsi": 49.7,
+   "price": 91.85,
+   "chg1d": 0.39,
+   "chg5d": 0.81,
+   "chg1m": -8.2,
+   "rsi": 50.1,
    "above_sma50": true,
    "above_sma200": true,
-   "bias": 33
+   "bias": 34
   },
   {
    "symbol": "EURUSD=X",
@@ -97,14 +97,14 @@
    "symbol": "DX-Y.NYB",
    "name": "Índice dólar",
    "group": "Divisas",
-   "price": 102.23,
-   "chg1d": 0.09,
-   "chg5d": 0.3,
-   "chg1m": 3.14,
-   "rsi": 69.2,
+   "price": 102.21,
+   "chg1d": 0.07,
+   "chg5d": 0.27,
+   "chg1m": 3.12,
+   "rsi": 69.0,
    "above_sma50": true,
    "above_sma200": true,
-   "bias": 77
+   "bias": 76
   },
   {
    "symbol": "^GSPC",
@@ -136,27 +136,27 @@
    "symbol": "^GDAXI",
    "name": "DAX",
    "group": "Índices",
-   "price": 24806.97,
-   "chg1d": -1.18,
-   "chg5d": -0.53,
-   "chg1m": -2.19,
-   "rsi": 36.6,
+   "price": 25087.27,
+   "chg1d": 1.13,
+   "chg5d": -0.57,
+   "chg1m": -1.88,
+   "rsi": 43.4,
    "above_sma50": false,
-   "above_sma200": false,
-   "bias": -69
+   "above_sma200": true,
+   "bias": -10
   },
   {
    "symbol": "^IBEX",
    "name": "IBEX 35",
    "group": "Índices",
-   "price": 18928.9,
-   "chg1d": -0.99,
-   "chg5d": -0.4,
-   "chg1m": -3.72,
-   "rsi": 35.8,
+   "price": 19033.1,
+   "chg1d": 0.55,
+   "chg5d": -0.27,
+   "chg1m": -4.06,
+   "rsi": 38.9,
    "above_sma50": false,
    "above_sma200": true,
-   "bias": -22
+   "bias": -18
   },
   {
    "symbol": "^TNX",
@@ -188,16 +188,16 @@
    "symbol": "BTC-USD",
    "name": "Bitcoin",
    "group": "Cripto",
-   "price": 82559.71,
-   "chg1d": 1.08,
-   "chg5d": -4.53,
-   "chg1m": 1.63,
-   "rsi": 50.2,
+   "price": 82710.24,
+   "chg1d": 0.2,
+   "chg5d": -3.59,
+   "chg1m": 1.93,
+   "rsi": 50.8,
    "above_sma50": true,
    "above_sma200": true,
-   "bias": 34
+   "bias": 35
   }
  ],
- "updated": "2026-10-09T22:50:30+00:00",
+ "updated": "2026-10-10T14:05:26+00:00",
  "sample": false
 }
